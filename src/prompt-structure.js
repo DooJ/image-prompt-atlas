@@ -192,7 +192,7 @@
     const text = String(source == null ? '' : source);
     const inspected = engine.inspectTemplate(text);
     const model = inspected.kind === 'json' ? createJsonModel(text, inspected) : createTextModel(text, inspected);
-    model.extras = GROUPS.map(group => ({
+    model.extras = model.kind === 'json' ? [] : GROUPS.map(group => ({
       id: `extra-${group}`,
       group,
       label: group === 'content' ? '대상·문구 조건 추가' : group === 'composition' ? '구성·장면 조건 추가' : '스타일·화질 조건 추가',

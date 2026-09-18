@@ -163,6 +163,13 @@
         : `${regularCount}개 조건`;
       $(`atlas-${group}-count`).textContent = countText;
       container.replaceChildren();
+      if (fields.length === 0) {
+        const empty = document.createElement('p');
+        empty.className = 'text-small text-muted';
+        empty.textContent = '원문 JSON에 이 영역으로 분류된 설정값이 없습니다. 새 키는 고급 편집에서 JSON 구조에 맞게 추가하세요.';
+        container.append(empty);
+        return;
+      }
       for (const [index, field] of fields.entries()) {
         const wrap = document.createElement('div');
         wrap.className = 'atlas-segment';

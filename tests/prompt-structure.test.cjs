@@ -16,8 +16,9 @@ test('전체 825개 한국어·원문을 대상, 구성, 스타일 편집 영역
     for (const source of [item.ko, item.originalTemplate || item.original]) {
       const model = structure.createModel(source);
       for (const group of ['content', 'composition', 'style']) {
-        assert.ok(structure.fieldsFor(model, group).length > 0, `${item.id}.${group}`);
+        if (model.kind === 'text') assert.ok(structure.fieldsFor(model, group).length > 0, `${item.id}.${group}`);
       }
+      if (model.kind === 'json') assert.ok(model.fields.length > 0, item.id);
       const result = structure.composeModel(model);
       assert.deepEqual(result.errors, [], item.id);
       if (model.kind === 'json') {
@@ -66,6 +67,7 @@ test('JSON 설정값을 나눠 수정해도 키, 배열, 숫자와 불린 형식
   const source = item.originalTemplate || item.original;
   const model = structure.createModel(source);
   assert.equal(model.kind, 'json');
+  assert.equal(model.extras.length, 0);
   const stringField = model.fields.find(field => field.type === 'string' && field.value);
   stringField.value += ' revised';
   const result = structure.composeModel(model);
