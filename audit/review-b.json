@@ -1,0 +1,6342 @@
+{
+  "scope": {
+    "startIndexInclusive": 412,
+    "endIndexInclusive": 824,
+    "count": 413,
+    "catalogSha": "e2a269ad1a055a0b4f6c1e170341c6c1aba30faa",
+    "language": "한국어",
+    "additionalApprovedIds": [
+      "portrait_case296"
+    ]
+  },
+  "checkedIds": [
+    "poster_case50",
+    "poster_case253",
+    "poster_case42",
+    "poster_case348",
+    "poster_case7",
+    "poster_case398",
+    "poster_case371",
+    "poster_case390",
+    "poster_case416",
+    "poster_case164",
+    "poster_case192",
+    "poster_case317",
+    "poster_case304",
+    "poster_case401",
+    "poster_case180",
+    "poster_case187",
+    "poster_case72",
+    "poster_case15",
+    "poster_case127",
+    "poster_case385",
+    "poster_case389",
+    "poster_case40",
+    "poster_case189",
+    "poster_case285",
+    "poster_case418",
+    "poster_case376",
+    "poster_case298",
+    "poster_case367",
+    "poster_case369",
+    "poster_case8",
+    "poster_case182",
+    "poster_case251",
+    "poster_case414",
+    "poster_case427",
+    "poster_case333",
+    "poster_case378",
+    "poster_case188",
+    "poster_case13",
+    "poster_case422",
+    "poster_case250",
+    "poster_case373",
+    "poster_case47",
+    "poster_case87",
+    "poster_case282",
+    "poster_case110",
+    "poster_case425",
+    "poster_case179",
+    "poster_case328",
+    "poster_case12",
+    "poster_case122",
+    "poster_case402",
+    "poster_case420",
+    "poster_case374",
+    "poster_case257",
+    "poster_case345",
+    "poster_case260",
+    "poster_case49",
+    "poster_case404",
+    "poster_case33",
+    "poster_case103",
+    "poster_case277",
+    "poster_case274",
+    "poster_case336",
+    "poster_case177",
+    "poster_case410",
+    "poster_case346",
+    "poster_case361",
+    "poster_case193",
+    "poster_case77",
+    "poster_case178",
+    "poster_case393",
+    "poster_case70",
+    "poster_case278",
+    "poster_case332",
+    "poster_case184",
+    "poster_case325",
+    "poster_case259",
+    "poster_case319",
+    "poster_case335",
+    "poster_case329",
+    "poster_case172",
+    "poster_case426",
+    "poster_case411",
+    "poster_case428",
+    "poster_case35",
+    "poster_case409",
+    "poster_case174",
+    "poster_case368",
+    "poster_case353",
+    "poster_case318",
+    "poster_case340",
+    "poster_case338",
+    "poster_case79",
+    "poster_case51",
+    "poster_case262",
+    "poster_case261",
+    "poster_case384",
+    "poster_case397",
+    "poster_case363",
+    "poster_case41",
+    "poster_case194",
+    "poster_case140",
+    "poster_case413",
+    "poster_case46",
+    "poster_case343",
+    "poster_case301",
+    "poster_case181",
+    "poster_case279",
+    "poster_case314",
+    "poster_case423",
+    "poster_case415",
+    "poster_case80",
+    "poster_case383",
+    "poster_case372",
+    "poster_case303",
+    "poster_case342",
+    "poster_case280",
+    "poster_case339",
+    "poster_case141",
+    "poster_case82",
+    "poster_case396",
+    "poster_case394",
+    "poster_case58",
+    "poster_case14",
+    "poster_case350",
+    "poster_case24",
+    "poster_case399",
+    "poster_case407",
+    "poster_case165",
+    "poster_case71",
+    "poster_case183",
+    "poster_case9",
+    "poster_case138",
+    "poster_case321",
+    "poster_case11",
+    "poster_case359",
+    "poster_case78",
+    "poster_case185",
+    "poster_case120",
+    "poster_case429",
+    "poster_case364",
+    "poster_case405",
+    "poster_case324",
+    "poster_case268",
+    "poster_case299",
+    "poster_case382",
+    "poster_case365",
+    "poster_case379",
+    "poster_case139",
+    "poster_case142",
+    "poster_case293",
+    "poster_case2",
+    "poster_case356",
+    "poster_case286",
+    "poster_case128",
+    "poster_case266",
+    "poster_case290",
+    "poster_case300",
+    "poster_case281",
+    "poster_case320",
+    "poster_case430",
+    "poster_case417",
+    "poster_case412",
+    "poster_case403",
+    "poster_case362",
+    "poster_case347",
+    "poster_case354",
+    "poster_case388",
+    "poster_case105",
+    "poster_case366",
+    "poster_case272",
+    "poster_case283",
+    "poster_case270",
+    "poster_case307",
+    "poster_case326",
+    "comparison_case77",
+    "ui_case163",
+    "ui_case178",
+    "ui_case143",
+    "poster_case111",
+    "poster_case176",
+    "ui_case45",
+    "ui_case44",
+    "poster_case331",
+    "poster_case175",
+    "poster_case322",
+    "ui_case190",
+    "poster_case408",
+    "poster_case56",
+    "ui_case157",
+    "poster_case108",
+    "ui_case156",
+    "poster_case155",
+    "ui_case175",
+    "poster_case171",
+    "poster_case337",
+    "poster_case305",
+    "ui_case171",
+    "ui_case25",
+    "poster_case297",
+    "poster_case76",
+    "poster_case291",
+    "ui_case127",
+    "case_case83",
+    "poster_case387",
+    "poster_case190",
+    "ui_case191",
+    "poster_case39",
+    "poster_case32",
+    "poster_case45",
+    "ui_case155",
+    "ui_case166",
+    "poster_case54",
+    "poster_case121",
+    "poster_case295",
+    "poster_case255",
+    "ui_case144",
+    "ui_case195",
+    "ui_case38",
+    "ui_case197",
+    "poster_case107",
+    "ui_case172",
+    "ui_case47",
+    "ui_case189",
+    "ui_case2",
+    "ui_case119",
+    "ui_case107",
+    "ui_case115",
+    "poster_case112",
+    "ui_case101",
+    "ui_case110",
+    "ui_case108",
+    "ui_case102",
+    "ui_case174",
+    "ui_case93",
+    "ui_case130",
+    "ui_case120",
+    "ui_case116",
+    "ui_case46",
+    "ui_case125",
+    "ui_case149",
+    "ui_case162",
+    "poster_case330",
+    "portrait_case239",
+    "ui_case33",
+    "ui_case95",
+    "ui_case181",
+    "ui_case117",
+    "ui_case92",
+    "ui_case112",
+    "ui_case94",
+    "ui_case64",
+    "ui_case100",
+    "ui_case34",
+    "case_case84",
+    "case_case108",
+    "ui_case188",
+    "ui_case99",
+    "ui_case183",
+    "ui_case36",
+    "ui_case169",
+    "ui_case193",
+    "ui_case152",
+    "ad-creative_case200",
+    "ui_case129",
+    "ui_case104",
+    "ui_case111",
+    "ui_case146",
+    "ui_case3",
+    "ui_case106",
+    "ui_case131",
+    "ui_case179",
+    "ui_case150",
+    "ui_case180",
+    "ui_case40",
+    "ui_case35",
+    "ui_case8",
+    "ui_case88",
+    "ui_case7",
+    "ui_case37",
+    "ui_case194",
+    "ui_case109",
+    "ui_case168",
+    "ui_case153",
+    "ui_case185",
+    "ui_case192",
+    "ui_case10",
+    "ui_case96",
+    "ui_case151",
+    "ui_case105",
+    "ui_case5",
+    "ui_case196",
+    "ui_case118",
+    "ui_case199",
+    "ui_case1",
+    "ui_case126",
+    "ui_case32",
+    "ui_case128",
+    "ui_case98",
+    "ui_case97",
+    "ui_case159",
+    "ui_case113",
+    "ad-creative_case193",
+    "ui_case170",
+    "poster_case48",
+    "case_case86",
+    "ui_case4",
+    "ui_case91",
+    "ui_case9",
+    "ui_case187",
+    "ui_case154",
+    "ui_case103",
+    "ui_case39",
+    "ui_case177",
+    "ui_case198",
+    "ui_case123",
+    "ui_case122",
+    "comparison_case107",
+    "poster_case160",
+    "ui_case145",
+    "ui_case124",
+    "comparison_case38",
+    "comparison_case104",
+    "poster_case292",
+    "comparison_case16",
+    "comparison_case100",
+    "comparison_case36",
+    "comparison_case71",
+    "comparison_case81",
+    "ui_case186",
+    "case_case111",
+    "case_case61",
+    "ui_case167",
+    "comparison_case112",
+    "comparison_case106",
+    "comparison_case88",
+    "ecommerce_case163",
+    "poster_case380",
+    "comparison_case92",
+    "case_case97",
+    "comparison_case101",
+    "ui_case165",
+    "comparison_case105",
+    "comparison_case97",
+    "comparison_case30",
+    "comparison_case79",
+    "comparison_case73",
+    "comparison_case109",
+    "comparison_case84",
+    "comparison_case99",
+    "case_case109",
+    "case_case66",
+    "ui_case173",
+    "comparison_case91",
+    "portrait_case198",
+    "portrait_case274",
+    "comparison_case102",
+    "comparison_case32",
+    "comparison_case10",
+    "poster_case137",
+    "case_case67",
+    "case_case65",
+    "ui_case176",
+    "ui_case121",
+    "ui_case148",
+    "case_case101",
+    "comparison_case93",
+    "comparison_case83",
+    "comparison_case74",
+    "comparison_case29",
+    "case_case91",
+    "case_case95",
+    "portrait_case222",
+    "comparison_case98",
+    "comparison_case76",
+    "comparison_case78",
+    "comparison_case33",
+    "case_case112",
+    "comparison_case72",
+    "case_case93",
+    "case_case92",
+    "comparison_case87",
+    "comparison_case110",
+    "ui_case164",
+    "poster_case391",
+    "character_case15",
+    "case_case113",
+    "comparison_case31",
+    "comparison_case111",
+    "case_case99",
+    "comparison_case70",
+    "comparison_case37",
+    "comparison_case34",
+    "comparison_case39",
+    "comparison_case35",
+    "comparison_case23",
+    "ui_case161",
+    "ui_case182",
+    "comparison_case89",
+    "comparison_case85",
+    "comparison_case86",
+    "case_case94",
+    "case_case96",
+    "case_case102",
+    "case_case100",
+    "comparison_case75",
+    "case_case107",
+    "case_case110",
+    "case_case98",
+    "comparison_case108",
+    "comparison_case82",
+    "comparison_case5",
+    "comparison_case80"
+  ],
+  "method": [
+    "모든 413개 항목에서 필수 텍스트·변수 토큰·숫자 표기·JSON 파싱 가능 여부·괄호 균형·언어 손상·입력 이미지 의존·잘림 경계를 구조적으로 검사했습니다.",
+    "모든 항목의 원문/번역 시작부와 제목을 비교해 명백한 주제·대상 오류 후보를 찾았습니다.",
+    "구조화 JSON 17개는 원문과 번역의 모든 말단 값 개수·순서를 확인하고 원문 스키마로 복원한 뒤 키·배열 길이·유형 동등성을 검증했습니다.",
+    "의심 후보는 원문과 한국어 전체 또는 문제 문맥을 대조하여 조건·수치·주체·부정문·고정 표기·장면 누락을 교정했습니다.",
+    "source/author/link/original은 수정하지 않았으며 교정 필요한 재사용 편집본은 originalTemplate에 분리했습니다.",
+    "외부 번역 서비스 호출 없이 원문과 로컬 번역 캐시를 근거로 교정했습니다."
+  ],
+  "automaticChecksBefore": {
+    "구조화·다단계·변수 참조 포함": 151,
+    "원문 고정 길이 경계": 6,
+    "원문 괄호 불균형": 1,
+    "숫자 표기 차이": 7,
+    "번역 길이 짧음": 6,
+    "비한국어 비중 높음": 1
+  },
+  "itemChecks": [
+    {
+      "index": 412,
+      "id": "poster_case50",
+      "originalLength": 2079,
+      "koLengthBefore": 3361,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 413,
+      "id": "poster_case253",
+      "originalLength": 433,
+      "koLengthBefore": 800,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 414,
+      "id": "poster_case42",
+      "originalLength": 694,
+      "koLengthBefore": 1335,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 415,
+      "id": "poster_case348",
+      "originalLength": 3958,
+      "koLengthBefore": 2091,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 416,
+      "id": "poster_case7",
+      "originalLength": 545,
+      "koLengthBefore": 979,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 417,
+      "id": "poster_case398",
+      "originalLength": 359,
+      "koLengthBefore": 197,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 418,
+      "id": "poster_case371",
+      "originalLength": 366,
+      "koLengthBefore": 227,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 419,
+      "id": "poster_case390",
+      "originalLength": 1530,
+      "koLengthBefore": 832,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 420,
+      "id": "poster_case416",
+      "originalLength": 506,
+      "koLengthBefore": 277,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 421,
+      "id": "poster_case164",
+      "originalLength": 2155,
+      "koLengthBefore": 1135,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 422,
+      "id": "poster_case192",
+      "originalLength": 499,
+      "koLengthBefore": 244,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 423,
+      "id": "poster_case317",
+      "originalLength": 835,
+      "koLengthBefore": 434,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 424,
+      "id": "poster_case304",
+      "originalLength": 819,
+      "koLengthBefore": 460,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 425,
+      "id": "poster_case401",
+      "originalLength": 491,
+      "koLengthBefore": 281,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 426,
+      "id": "poster_case180",
+      "originalLength": 445,
+      "koLengthBefore": 256,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 427,
+      "id": "poster_case187",
+      "originalLength": 1921,
+      "koLengthBefore": 1065,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 428,
+      "id": "poster_case72",
+      "originalLength": 191,
+      "koLengthBefore": 110,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 429,
+      "id": "poster_case15",
+      "originalLength": 77,
+      "koLengthBefore": 169,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 430,
+      "id": "poster_case127",
+      "originalLength": 1770,
+      "koLengthBefore": 1007,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 431,
+      "id": "poster_case385",
+      "originalLength": 49,
+      "koLengthBefore": 31,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 432,
+      "id": "poster_case389",
+      "originalLength": 2795,
+      "koLengthBefore": 1469,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 433,
+      "id": "poster_case40",
+      "originalLength": 28,
+      "koLengthBefore": 35,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 434,
+      "id": "poster_case189",
+      "originalLength": 1152,
+      "koLengthBefore": 626,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 435,
+      "id": "poster_case285",
+      "originalLength": 500,
+      "koLengthBefore": 276,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 436,
+      "id": "poster_case418",
+      "originalLength": 1059,
+      "koLengthBefore": 578,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 437,
+      "id": "poster_case376",
+      "originalLength": 400,
+      "koLengthBefore": 226,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 438,
+      "id": "poster_case298",
+      "originalLength": 1277,
+      "koLengthBefore": 675,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 439,
+      "id": "poster_case367",
+      "originalLength": 751,
+      "koLengthBefore": 391,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 440,
+      "id": "poster_case369",
+      "originalLength": 1112,
+      "koLengthBefore": 585,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 441,
+      "id": "poster_case8",
+      "originalLength": 14,
+      "koLengthBefore": 16,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 442,
+      "id": "poster_case182",
+      "originalLength": 960,
+      "koLengthBefore": 516,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 443,
+      "id": "poster_case251",
+      "originalLength": 984,
+      "koLengthBefore": 476,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 444,
+      "id": "poster_case414",
+      "originalLength": 991,
+      "koLengthBefore": 519,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 445,
+      "id": "poster_case427",
+      "originalLength": 2728,
+      "koLengthBefore": 1338,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 446,
+      "id": "poster_case333",
+      "originalLength": 354,
+      "koLengthBefore": 208,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 447,
+      "id": "poster_case378",
+      "originalLength": 1487,
+      "koLengthBefore": 774,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 448,
+      "id": "poster_case188",
+      "originalLength": 2312,
+      "koLengthBefore": 1278,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 449,
+      "id": "poster_case13",
+      "originalLength": 152,
+      "koLengthBefore": 297,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 450,
+      "id": "poster_case422",
+      "originalLength": 641,
+      "koLengthBefore": 331,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 451,
+      "id": "poster_case250",
+      "originalLength": 533,
+      "koLengthBefore": 247,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 452,
+      "id": "poster_case373",
+      "originalLength": 1031,
+      "koLengthBefore": 584,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 453,
+      "id": "poster_case47",
+      "originalLength": 13,
+      "koLengthBefore": 27,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 454,
+      "id": "poster_case87",
+      "originalLength": 15,
+      "koLengthBefore": 26,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 455,
+      "id": "poster_case282",
+      "originalLength": 741,
+      "koLengthBefore": 1198,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 456,
+      "id": "poster_case110",
+      "originalLength": 1909,
+      "koLengthBefore": 2121,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 457,
+      "id": "poster_case425",
+      "originalLength": 491,
+      "koLengthBefore": 258,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 458,
+      "id": "poster_case179",
+      "originalLength": 3437,
+      "koLengthBefore": 1738,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 459,
+      "id": "poster_case328",
+      "originalLength": 344,
+      "koLengthBefore": 183,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 460,
+      "id": "poster_case12",
+      "originalLength": 174,
+      "koLengthBefore": 327,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 461,
+      "id": "poster_case122",
+      "originalLength": 3447,
+      "koLengthBefore": 2032,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 462,
+      "id": "poster_case402",
+      "originalLength": 648,
+      "koLengthBefore": 382,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 463,
+      "id": "poster_case420",
+      "originalLength": 766,
+      "koLengthBefore": 424,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 464,
+      "id": "poster_case374",
+      "originalLength": 2000,
+      "koLengthBefore": 1482,
+      "flags": [
+        "원문 고정 길이 경계",
+        "원문 괄호 불균형",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 465,
+      "id": "poster_case257",
+      "originalLength": 550,
+      "koLengthBefore": 294,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 466,
+      "id": "poster_case345",
+      "originalLength": 1244,
+      "koLengthBefore": 679,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 467,
+      "id": "poster_case260",
+      "originalLength": 2464,
+      "koLengthBefore": 1246,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 468,
+      "id": "poster_case49",
+      "originalLength": 104,
+      "koLengthBefore": 119,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 469,
+      "id": "poster_case404",
+      "originalLength": 2106,
+      "koLengthBefore": 1112,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 470,
+      "id": "poster_case33",
+      "originalLength": 22,
+      "koLengthBefore": 30,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title",
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 471,
+      "id": "poster_case103",
+      "originalLength": 51,
+      "koLengthBefore": 84,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 472,
+      "id": "poster_case277",
+      "originalLength": 1063,
+      "koLengthBefore": 560,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 473,
+      "id": "poster_case274",
+      "originalLength": 2261,
+      "koLengthBefore": 1225,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 474,
+      "id": "poster_case336",
+      "originalLength": 533,
+      "koLengthBefore": 264,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 475,
+      "id": "poster_case177",
+      "originalLength": 2273,
+      "koLengthBefore": 1236,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 476,
+      "id": "poster_case410",
+      "originalLength": 768,
+      "koLengthBefore": 371,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 477,
+      "id": "poster_case346",
+      "originalLength": 1517,
+      "koLengthBefore": 970,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 478,
+      "id": "poster_case361",
+      "originalLength": 948,
+      "koLengthBefore": 497,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 479,
+      "id": "poster_case193",
+      "originalLength": 684,
+      "koLengthBefore": 386,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 480,
+      "id": "poster_case77",
+      "originalLength": 1156,
+      "koLengthBefore": 693,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 481,
+      "id": "poster_case178",
+      "originalLength": 2072,
+      "koLengthBefore": 1316,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 482,
+      "id": "poster_case393",
+      "originalLength": 2171,
+      "koLengthBefore": 1031,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 483,
+      "id": "poster_case70",
+      "originalLength": 1383,
+      "koLengthBefore": 755,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 484,
+      "id": "poster_case278",
+      "originalLength": 1129,
+      "koLengthBefore": 637,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 485,
+      "id": "poster_case332",
+      "originalLength": 2587,
+      "koLengthBefore": 1293,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 486,
+      "id": "poster_case184",
+      "originalLength": 1033,
+      "koLengthBefore": 652,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 487,
+      "id": "poster_case325",
+      "originalLength": 2522,
+      "koLengthBefore": 1390,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 488,
+      "id": "poster_case259",
+      "originalLength": 988,
+      "koLengthBefore": 504,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 489,
+      "id": "poster_case319",
+      "originalLength": 2214,
+      "koLengthBefore": 1262,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 490,
+      "id": "poster_case335",
+      "originalLength": 509,
+      "koLengthBefore": 312,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 491,
+      "id": "poster_case329",
+      "originalLength": 1004,
+      "koLengthBefore": 562,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 492,
+      "id": "poster_case172",
+      "originalLength": 1213,
+      "koLengthBefore": 742,
+      "flags": [
+        "숫자 표기 차이"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 493,
+      "id": "poster_case426",
+      "originalLength": 1051,
+      "koLengthBefore": 489,
+      "flags": [
+        "번역 길이 짧음"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 494,
+      "id": "poster_case411",
+      "originalLength": 3484,
+      "koLengthBefore": 1837,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 495,
+      "id": "poster_case428",
+      "originalLength": 995,
+      "koLengthBefore": 511,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 496,
+      "id": "poster_case35",
+      "originalLength": 43,
+      "koLengthBefore": 80,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 497,
+      "id": "poster_case409",
+      "originalLength": 1610,
+      "koLengthBefore": 819,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 498,
+      "id": "poster_case174",
+      "originalLength": 824,
+      "koLengthBefore": 407,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 499,
+      "id": "poster_case368",
+      "originalLength": 1090,
+      "koLengthBefore": 564,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 500,
+      "id": "poster_case353",
+      "originalLength": 782,
+      "koLengthBefore": 431,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 501,
+      "id": "poster_case318",
+      "originalLength": 3435,
+      "koLengthBefore": 1990,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 502,
+      "id": "poster_case340",
+      "originalLength": 782,
+      "koLengthBefore": 499,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 503,
+      "id": "poster_case338",
+      "originalLength": 3688,
+      "koLengthBefore": 2099,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 504,
+      "id": "poster_case79",
+      "originalLength": 286,
+      "koLengthBefore": 149,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 505,
+      "id": "poster_case51",
+      "originalLength": 78,
+      "koLengthBefore": 91,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 506,
+      "id": "poster_case262",
+      "originalLength": 1903,
+      "koLengthBefore": 1031,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 507,
+      "id": "poster_case261",
+      "originalLength": 186,
+      "koLengthBefore": 107,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 508,
+      "id": "poster_case384",
+      "originalLength": 2684,
+      "koLengthBefore": 1575,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 509,
+      "id": "poster_case397",
+      "originalLength": 1205,
+      "koLengthBefore": 601,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 510,
+      "id": "poster_case363",
+      "originalLength": 731,
+      "koLengthBefore": 385,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 511,
+      "id": "poster_case41",
+      "originalLength": 55,
+      "koLengthBefore": 56,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 512,
+      "id": "poster_case194",
+      "originalLength": 1183,
+      "koLengthBefore": 602,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 513,
+      "id": "poster_case140",
+      "originalLength": 1021,
+      "koLengthBefore": 521,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 514,
+      "id": "poster_case413",
+      "originalLength": 797,
+      "koLengthBefore": 431,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 515,
+      "id": "poster_case46",
+      "originalLength": 93,
+      "koLengthBefore": 102,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 516,
+      "id": "poster_case343",
+      "originalLength": 1098,
+      "koLengthBefore": 628,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 517,
+      "id": "poster_case301",
+      "originalLength": 1043,
+      "koLengthBefore": 547,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 518,
+      "id": "poster_case181",
+      "originalLength": 1267,
+      "koLengthBefore": 731,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 519,
+      "id": "poster_case279",
+      "originalLength": 1819,
+      "koLengthBefore": 980,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 520,
+      "id": "poster_case314",
+      "originalLength": 549,
+      "koLengthBefore": 321,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 521,
+      "id": "poster_case423",
+      "originalLength": 1152,
+      "koLengthBefore": 537,
+      "flags": [
+        "번역 길이 짧음"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 522,
+      "id": "poster_case415",
+      "originalLength": 4681,
+      "koLengthBefore": 2483,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 523,
+      "id": "poster_case80",
+      "originalLength": 718,
+      "koLengthBefore": 447,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 524,
+      "id": "poster_case383",
+      "originalLength": 1752,
+      "koLengthBefore": 911,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 525,
+      "id": "poster_case372",
+      "originalLength": 730,
+      "koLengthBefore": 410,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 526,
+      "id": "poster_case303",
+      "originalLength": 960,
+      "koLengthBefore": 529,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 527,
+      "id": "poster_case342",
+      "originalLength": 687,
+      "koLengthBefore": 345,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 528,
+      "id": "poster_case280",
+      "originalLength": 3278,
+      "koLengthBefore": 1824,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 529,
+      "id": "poster_case339",
+      "originalLength": 2280,
+      "koLengthBefore": 1138,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 530,
+      "id": "poster_case141",
+      "originalLength": 1324,
+      "koLengthBefore": 727,
+      "flags": [
+        "숫자 표기 차이",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 531,
+      "id": "poster_case82",
+      "originalLength": 552,
+      "koLengthBefore": 289,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 532,
+      "id": "poster_case396",
+      "originalLength": 1781,
+      "koLengthBefore": 946,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 533,
+      "id": "poster_case394",
+      "originalLength": 249,
+      "koLengthBefore": 115,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 534,
+      "id": "poster_case58",
+      "originalLength": 111,
+      "koLengthBefore": 43,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 535,
+      "id": "poster_case14",
+      "originalLength": 150,
+      "koLengthBefore": 255,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 536,
+      "id": "poster_case350",
+      "originalLength": 1617,
+      "koLengthBefore": 849,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 537,
+      "id": "poster_case24",
+      "originalLength": 352,
+      "koLengthBefore": 586,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 538,
+      "id": "poster_case399",
+      "originalLength": 387,
+      "koLengthBefore": 198,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 539,
+      "id": "poster_case407",
+      "originalLength": 1475,
+      "koLengthBefore": 754,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 540,
+      "id": "poster_case165",
+      "originalLength": 1394,
+      "koLengthBefore": 689,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 541,
+      "id": "poster_case71",
+      "originalLength": 1311,
+      "koLengthBefore": 721,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 542,
+      "id": "poster_case183",
+      "originalLength": 562,
+      "koLengthBefore": 343,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 543,
+      "id": "poster_case9",
+      "originalLength": 41,
+      "koLengthBefore": 38,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 544,
+      "id": "poster_case138",
+      "originalLength": 546,
+      "koLengthBefore": 362,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 545,
+      "id": "poster_case321",
+      "originalLength": 695,
+      "koLengthBefore": 399,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 546,
+      "id": "poster_case11",
+      "originalLength": 137,
+      "koLengthBefore": 250,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 547,
+      "id": "poster_case359",
+      "originalLength": 1609,
+      "koLengthBefore": 941,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 548,
+      "id": "poster_case78",
+      "originalLength": 278,
+      "koLengthBefore": 164,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 549,
+      "id": "poster_case185",
+      "originalLength": 845,
+      "koLengthBefore": 424,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 550,
+      "id": "poster_case120",
+      "originalLength": 3173,
+      "koLengthBefore": 1691,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 551,
+      "id": "poster_case429",
+      "originalLength": 1529,
+      "koLengthBefore": 796,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 552,
+      "id": "poster_case364",
+      "originalLength": 2000,
+      "koLengthBefore": 1009,
+      "flags": [
+        "원문 고정 길이 경계",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 553,
+      "id": "poster_case405",
+      "originalLength": 1707,
+      "koLengthBefore": 888,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 554,
+      "id": "poster_case324",
+      "originalLength": 1438,
+      "koLengthBefore": 800,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 555,
+      "id": "poster_case268",
+      "originalLength": 1361,
+      "koLengthBefore": 748,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 556,
+      "id": "poster_case299",
+      "originalLength": 300,
+      "koLengthBefore": 154,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 557,
+      "id": "poster_case382",
+      "originalLength": 2212,
+      "koLengthBefore": 1069,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 558,
+      "id": "poster_case365",
+      "originalLength": 1274,
+      "koLengthBefore": 640,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 559,
+      "id": "poster_case379",
+      "originalLength": 2000,
+      "koLengthBefore": 1021,
+      "flags": [
+        "원문 고정 길이 경계",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 560,
+      "id": "poster_case139",
+      "originalLength": 2329,
+      "koLengthBefore": 1314,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 561,
+      "id": "poster_case142",
+      "originalLength": 2672,
+      "koLengthBefore": 1375,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 562,
+      "id": "poster_case293",
+      "originalLength": 676,
+      "koLengthBefore": 361,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 563,
+      "id": "poster_case2",
+      "originalLength": 737,
+      "koLengthBefore": 382,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 564,
+      "id": "poster_case356",
+      "originalLength": 3279,
+      "koLengthBefore": 1597,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 565,
+      "id": "poster_case286",
+      "originalLength": 500,
+      "koLengthBefore": 250,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 566,
+      "id": "poster_case128",
+      "originalLength": 3705,
+      "koLengthBefore": 2675,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 567,
+      "id": "poster_case266",
+      "originalLength": 1263,
+      "koLengthBefore": 674,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 568,
+      "id": "poster_case290",
+      "originalLength": 89,
+      "koLengthBefore": 46,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 569,
+      "id": "poster_case300",
+      "originalLength": 1313,
+      "koLengthBefore": 659,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 570,
+      "id": "poster_case281",
+      "originalLength": 1028,
+      "koLengthBefore": 1712,
+      "flags": [
+        "숫자 표기 차이",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 571,
+      "id": "poster_case320",
+      "originalLength": 886,
+      "koLengthBefore": 416,
+      "flags": [
+        "번역 길이 짧음"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 572,
+      "id": "poster_case430",
+      "originalLength": 3912,
+      "koLengthBefore": 2211,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 573,
+      "id": "poster_case417",
+      "originalLength": 1103,
+      "koLengthBefore": 569,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 574,
+      "id": "poster_case412",
+      "originalLength": 1154,
+      "koLengthBefore": 633,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 575,
+      "id": "poster_case403",
+      "originalLength": 1373,
+      "koLengthBefore": 745,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 576,
+      "id": "poster_case362",
+      "originalLength": 924,
+      "koLengthBefore": 525,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 577,
+      "id": "poster_case347",
+      "originalLength": 2584,
+      "koLengthBefore": 1336,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 578,
+      "id": "poster_case354",
+      "originalLength": 528,
+      "koLengthBefore": 280,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 579,
+      "id": "poster_case388",
+      "originalLength": 3964,
+      "koLengthBefore": 2248,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 580,
+      "id": "poster_case105",
+      "originalLength": 66,
+      "koLengthBefore": 31,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 581,
+      "id": "poster_case366",
+      "originalLength": 348,
+      "koLengthBefore": 192,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 582,
+      "id": "poster_case272",
+      "originalLength": 1138,
+      "koLengthBefore": 1729,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 583,
+      "id": "poster_case283",
+      "originalLength": 833,
+      "koLengthBefore": 1555,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 584,
+      "id": "poster_case270",
+      "originalLength": 49,
+      "koLengthBefore": 68,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 585,
+      "id": "poster_case307",
+      "originalLength": 70,
+      "koLengthBefore": 143,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 586,
+      "id": "poster_case326",
+      "originalLength": 3855,
+      "koLengthBefore": 2621,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 587,
+      "id": "comparison_case77",
+      "originalLength": 2568,
+      "koLengthBefore": 1497,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 588,
+      "id": "ui_case163",
+      "originalLength": 1498,
+      "koLengthBefore": 737,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 589,
+      "id": "ui_case178",
+      "originalLength": 1329,
+      "koLengthBefore": 730,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 590,
+      "id": "ui_case143",
+      "originalLength": 1489,
+      "koLengthBefore": 795,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 591,
+      "id": "poster_case111",
+      "originalLength": 1696,
+      "koLengthBefore": 1432,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 592,
+      "id": "poster_case176",
+      "originalLength": 24,
+      "koLengthBefore": 15,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 593,
+      "id": "ui_case45",
+      "originalLength": 75,
+      "koLengthBefore": 50,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 594,
+      "id": "ui_case44",
+      "originalLength": 3203,
+      "koLengthBefore": 1922,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 595,
+      "id": "poster_case331",
+      "originalLength": 1497,
+      "koLengthBefore": 830,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 596,
+      "id": "poster_case175",
+      "originalLength": 69,
+      "koLengthBefore": 153,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 597,
+      "id": "poster_case322",
+      "originalLength": 1248,
+      "koLengthBefore": 628,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 598,
+      "id": "ui_case190",
+      "originalLength": 469,
+      "koLengthBefore": 235,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 599,
+      "id": "poster_case408",
+      "originalLength": 1147,
+      "koLengthBefore": 631,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 600,
+      "id": "poster_case56",
+      "originalLength": 1332,
+      "koLengthBefore": 2083,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 601,
+      "id": "ui_case157",
+      "originalLength": 2248,
+      "koLengthBefore": 1234,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 602,
+      "id": "poster_case108",
+      "originalLength": 2697,
+      "koLengthBefore": 2492,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 603,
+      "id": "ui_case156",
+      "originalLength": 679,
+      "koLengthBefore": 389,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 604,
+      "id": "poster_case155",
+      "originalLength": 1661,
+      "koLengthBefore": 1041,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 605,
+      "id": "ui_case175",
+      "originalLength": 1703,
+      "koLengthBefore": 1090,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 606,
+      "id": "poster_case171",
+      "originalLength": 1415,
+      "koLengthBefore": 803,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 607,
+      "id": "poster_case337",
+      "originalLength": 481,
+      "koLengthBefore": 252,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 608,
+      "id": "poster_case305",
+      "originalLength": 766,
+      "koLengthBefore": 385,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 609,
+      "id": "ui_case171",
+      "originalLength": 1599,
+      "koLengthBefore": 792,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 610,
+      "id": "ui_case25",
+      "originalLength": 567,
+      "koLengthBefore": 1027,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 611,
+      "id": "poster_case297",
+      "originalLength": 2297,
+      "koLengthBefore": 1206,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 612,
+      "id": "poster_case76",
+      "originalLength": 378,
+      "koLengthBefore": 193,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 613,
+      "id": "poster_case291",
+      "originalLength": 103,
+      "koLengthBefore": 52,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 614,
+      "id": "ui_case127",
+      "originalLength": 380,
+      "koLengthBefore": 244,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 615,
+      "id": "case_case83",
+      "originalLength": 66,
+      "koLengthBefore": 40,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 616,
+      "id": "poster_case387",
+      "originalLength": 1891,
+      "koLengthBefore": 948,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 617,
+      "id": "poster_case190",
+      "originalLength": 1648,
+      "koLengthBefore": 1017,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 618,
+      "id": "ui_case191",
+      "originalLength": 3569,
+      "koLengthBefore": 2441,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 619,
+      "id": "poster_case39",
+      "originalLength": 469,
+      "koLengthBefore": 796,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 620,
+      "id": "poster_case32",
+      "originalLength": 92,
+      "koLengthBefore": 39,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 621,
+      "id": "poster_case45",
+      "originalLength": 37,
+      "koLengthBefore": 13,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 622,
+      "id": "ui_case155",
+      "originalLength": 3534,
+      "koLengthBefore": 1701,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 623,
+      "id": "ui_case166",
+      "originalLength": 944,
+      "koLengthBefore": 465,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 624,
+      "id": "poster_case54",
+      "originalLength": 469,
+      "koLengthBefore": 796,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 625,
+      "id": "poster_case121",
+      "originalLength": 3768,
+      "koLengthBefore": 2450,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 626,
+      "id": "poster_case295",
+      "originalLength": 2058,
+      "koLengthBefore": 1154,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 627,
+      "id": "poster_case255",
+      "originalLength": 1981,
+      "koLengthBefore": 990,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 628,
+      "id": "ui_case144",
+      "originalLength": 2092,
+      "koLengthBefore": 1171,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 629,
+      "id": "ui_case195",
+      "originalLength": 274,
+      "koLengthBefore": 178,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 630,
+      "id": "ui_case38",
+      "originalLength": 109,
+      "koLengthBefore": 215,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 631,
+      "id": "ui_case197",
+      "originalLength": 371,
+      "koLengthBefore": 213,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 632,
+      "id": "poster_case107",
+      "originalLength": 3218,
+      "koLengthBefore": 2732,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 633,
+      "id": "ui_case172",
+      "originalLength": 3813,
+      "koLengthBefore": 2144,
+      "flags": [
+        "숫자 표기 차이"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 634,
+      "id": "ui_case47",
+      "originalLength": 124,
+      "koLengthBefore": 80,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 635,
+      "id": "ui_case189",
+      "originalLength": 1457,
+      "koLengthBefore": 755,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 636,
+      "id": "ui_case2",
+      "originalLength": 128,
+      "koLengthBefore": 82,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 637,
+      "id": "ui_case119",
+      "originalLength": 1496,
+      "koLengthBefore": 797,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 638,
+      "id": "ui_case107",
+      "originalLength": 2157,
+      "koLengthBefore": 1171,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 639,
+      "id": "ui_case115",
+      "originalLength": 2093,
+      "koLengthBefore": 1150,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 640,
+      "id": "poster_case112",
+      "originalLength": 2045,
+      "koLengthBefore": 1679,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 641,
+      "id": "ui_case101",
+      "originalLength": 2738,
+      "koLengthBefore": 1741,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 642,
+      "id": "ui_case110",
+      "originalLength": 1874,
+      "koLengthBefore": 1063,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 643,
+      "id": "ui_case108",
+      "originalLength": 2507,
+      "koLengthBefore": 1386,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 644,
+      "id": "ui_case102",
+      "originalLength": 2506,
+      "koLengthBefore": 1606,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 645,
+      "id": "ui_case174",
+      "originalLength": 3335,
+      "koLengthBefore": 1862,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 646,
+      "id": "ui_case93",
+      "originalLength": 1954,
+      "koLengthBefore": 1192,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 647,
+      "id": "ui_case130",
+      "originalLength": 1256,
+      "koLengthBefore": 635,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 648,
+      "id": "ui_case120",
+      "originalLength": 2432,
+      "koLengthBefore": 1404,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 649,
+      "id": "ui_case116",
+      "originalLength": 2437,
+      "koLengthBefore": 1406,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 650,
+      "id": "ui_case46",
+      "originalLength": 902,
+      "koLengthBefore": 462,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 651,
+      "id": "ui_case125",
+      "originalLength": 4914,
+      "koLengthBefore": 2760,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 652,
+      "id": "ui_case149",
+      "originalLength": 2237,
+      "koLengthBefore": 1214,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 653,
+      "id": "ui_case162",
+      "originalLength": 898,
+      "koLengthBefore": 491,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 654,
+      "id": "poster_case330",
+      "originalLength": 1594,
+      "koLengthBefore": 825,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 655,
+      "id": "portrait_case239",
+      "originalLength": 934,
+      "koLengthBefore": 473,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 656,
+      "id": "ui_case33",
+      "originalLength": 14,
+      "koLengthBefore": 17,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 657,
+      "id": "ui_case95",
+      "originalLength": 126,
+      "koLengthBefore": 116,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 658,
+      "id": "ui_case181",
+      "originalLength": 3870,
+      "koLengthBefore": 2078,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 659,
+      "id": "ui_case117",
+      "originalLength": 2148,
+      "koLengthBefore": 1303,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 660,
+      "id": "ui_case92",
+      "originalLength": 1451,
+      "koLengthBefore": 790,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 661,
+      "id": "ui_case112",
+      "originalLength": 302,
+      "koLengthBefore": 193,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 662,
+      "id": "ui_case94",
+      "originalLength": 1585,
+      "koLengthBefore": 933,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 663,
+      "id": "ui_case64",
+      "originalLength": 82,
+      "koLengthBefore": 45,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 664,
+      "id": "ui_case100",
+      "originalLength": 2249,
+      "koLengthBefore": 1195,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 665,
+      "id": "ui_case34",
+      "originalLength": 70,
+      "koLengthBefore": 78,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 666,
+      "id": "case_case84",
+      "originalLength": 70,
+      "koLengthBefore": 120,
+      "flags": [
+        "숫자 표기 차이"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 667,
+      "id": "case_case108",
+      "originalLength": 70,
+      "koLengthBefore": 120,
+      "flags": [
+        "숫자 표기 차이"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 668,
+      "id": "ui_case188",
+      "originalLength": 298,
+      "koLengthBefore": 211,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 669,
+      "id": "ui_case99",
+      "originalLength": 1779,
+      "koLengthBefore": 966,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 670,
+      "id": "ui_case183",
+      "originalLength": 1565,
+      "koLengthBefore": 879,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 671,
+      "id": "ui_case36",
+      "originalLength": 2314,
+      "koLengthBefore": 1115,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 672,
+      "id": "ui_case169",
+      "originalLength": 1759,
+      "koLengthBefore": 993,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 673,
+      "id": "ui_case193",
+      "originalLength": 745,
+      "koLengthBefore": 437,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 674,
+      "id": "ui_case152",
+      "originalLength": 242,
+      "koLengthBefore": 104,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 675,
+      "id": "ad-creative_case200",
+      "originalLength": 4648,
+      "koLengthBefore": 2649,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 676,
+      "id": "ui_case129",
+      "originalLength": 3046,
+      "koLengthBefore": 1568,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 677,
+      "id": "ui_case104",
+      "originalLength": 1226,
+      "koLengthBefore": 635,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 678,
+      "id": "ui_case111",
+      "originalLength": 1807,
+      "koLengthBefore": 1043,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 679,
+      "id": "ui_case146",
+      "originalLength": 1561,
+      "koLengthBefore": 852,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 680,
+      "id": "ui_case3",
+      "originalLength": 334,
+      "koLengthBefore": 170,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 681,
+      "id": "ui_case106",
+      "originalLength": 262,
+      "koLengthBefore": 201,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 682,
+      "id": "ui_case131",
+      "originalLength": 3368,
+      "koLengthBefore": 1963,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 683,
+      "id": "ui_case179",
+      "originalLength": 4422,
+      "koLengthBefore": 2754,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 684,
+      "id": "ui_case150",
+      "originalLength": 469,
+      "koLengthBefore": 232,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 685,
+      "id": "ui_case180",
+      "originalLength": 845,
+      "koLengthBefore": 430,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 686,
+      "id": "ui_case40",
+      "originalLength": 274,
+      "koLengthBefore": 226,
+      "flags": [
+        "비한국어 비중 높음",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 687,
+      "id": "ui_case35",
+      "originalLength": 19,
+      "koLengthBefore": 20,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 688,
+      "id": "ui_case8",
+      "originalLength": 68,
+      "koLengthBefore": 68,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 689,
+      "id": "ui_case88",
+      "originalLength": 30,
+      "koLengthBefore": 60,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 690,
+      "id": "ui_case7",
+      "originalLength": 66,
+      "koLengthBefore": 153,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 691,
+      "id": "ui_case37",
+      "originalLength": 66,
+      "koLengthBefore": 158,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 692,
+      "id": "ui_case194",
+      "originalLength": 2253,
+      "koLengthBefore": 1977,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 693,
+      "id": "ui_case109",
+      "originalLength": 950,
+      "koLengthBefore": 595,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 694,
+      "id": "ui_case168",
+      "originalLength": 2512,
+      "koLengthBefore": 1293,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 695,
+      "id": "ui_case153",
+      "originalLength": 2719,
+      "koLengthBefore": 1520,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 696,
+      "id": "ui_case185",
+      "originalLength": 3407,
+      "koLengthBefore": 2671,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 697,
+      "id": "ui_case192",
+      "originalLength": 660,
+      "koLengthBefore": 409,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 698,
+      "id": "ui_case10",
+      "originalLength": 66,
+      "koLengthBefore": 74,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 699,
+      "id": "ui_case96",
+      "originalLength": 1997,
+      "koLengthBefore": 1132,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 700,
+      "id": "ui_case151",
+      "originalLength": 1635,
+      "koLengthBefore": 906,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 701,
+      "id": "ui_case105",
+      "originalLength": 468,
+      "koLengthBefore": 378,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 702,
+      "id": "ui_case5",
+      "originalLength": 134,
+      "koLengthBefore": 247,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 703,
+      "id": "ui_case196",
+      "originalLength": 1216,
+      "koLengthBefore": 624,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 704,
+      "id": "ui_case118",
+      "originalLength": 3812,
+      "koLengthBefore": 2506,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 705,
+      "id": "ui_case199",
+      "originalLength": 472,
+      "koLengthBefore": 384,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 706,
+      "id": "ui_case1",
+      "originalLength": 40,
+      "koLengthBefore": 74,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 707,
+      "id": "ui_case126",
+      "originalLength": 1313,
+      "koLengthBefore": 710,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 708,
+      "id": "ui_case32",
+      "originalLength": 112,
+      "koLengthBefore": 123,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 709,
+      "id": "ui_case128",
+      "originalLength": 340,
+      "koLengthBefore": 185,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 710,
+      "id": "ui_case98",
+      "originalLength": 1796,
+      "koLengthBefore": 1038,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 711,
+      "id": "ui_case97",
+      "originalLength": 2054,
+      "koLengthBefore": 1104,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 712,
+      "id": "ui_case159",
+      "originalLength": 399,
+      "koLengthBefore": 195,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 713,
+      "id": "ui_case113",
+      "originalLength": 1732,
+      "koLengthBefore": 907,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 714,
+      "id": "ad-creative_case193",
+      "originalLength": 752,
+      "koLengthBefore": 445,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 715,
+      "id": "ui_case170",
+      "originalLength": 864,
+      "koLengthBefore": 451,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 716,
+      "id": "poster_case48",
+      "originalLength": 1810,
+      "koLengthBefore": 987,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 717,
+      "id": "case_case86",
+      "originalLength": 25,
+      "koLengthBefore": 52,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 718,
+      "id": "ui_case4",
+      "originalLength": 285,
+      "koLengthBefore": 441,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 719,
+      "id": "ui_case91",
+      "originalLength": 2043,
+      "koLengthBefore": 1178,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 720,
+      "id": "ui_case9",
+      "originalLength": 71,
+      "koLengthBefore": 140,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 721,
+      "id": "ui_case187",
+      "originalLength": 22521,
+      "koLengthBefore": 13252,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 722,
+      "id": "ui_case154",
+      "originalLength": 915,
+      "koLengthBefore": 518,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 723,
+      "id": "ui_case103",
+      "originalLength": 780,
+      "koLengthBefore": 407,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 724,
+      "id": "ui_case39",
+      "originalLength": 159,
+      "koLengthBefore": 264,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 725,
+      "id": "ui_case177",
+      "originalLength": 2598,
+      "koLengthBefore": 1156,
+      "flags": [
+        "번역 길이 짧음",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 726,
+      "id": "ui_case198",
+      "originalLength": 2950,
+      "koLengthBefore": 1691,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 727,
+      "id": "ui_case123",
+      "originalLength": 294,
+      "koLengthBefore": 495,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 728,
+      "id": "ui_case122",
+      "originalLength": 608,
+      "koLengthBefore": 972,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 729,
+      "id": "comparison_case107",
+      "originalLength": 1424,
+      "koLengthBefore": 675,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 730,
+      "id": "poster_case160",
+      "originalLength": 1758,
+      "koLengthBefore": 971,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 731,
+      "id": "ui_case145",
+      "originalLength": 2745,
+      "koLengthBefore": 1298,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 732,
+      "id": "ui_case124",
+      "originalLength": 1720,
+      "koLengthBefore": 1090,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 733,
+      "id": "comparison_case38",
+      "originalLength": 93,
+      "koLengthBefore": 35,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 734,
+      "id": "comparison_case104",
+      "originalLength": 235,
+      "koLengthBefore": 129,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 735,
+      "id": "poster_case292",
+      "originalLength": 361,
+      "koLengthBefore": 204,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 736,
+      "id": "comparison_case16",
+      "originalLength": 98,
+      "koLengthBefore": 101,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 737,
+      "id": "comparison_case100",
+      "originalLength": 1337,
+      "koLengthBefore": 794,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 738,
+      "id": "comparison_case36",
+      "originalLength": 24,
+      "koLengthBefore": 28,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 739,
+      "id": "comparison_case71",
+      "originalLength": 2546,
+      "koLengthBefore": 1605,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 740,
+      "id": "comparison_case81",
+      "originalLength": 367,
+      "koLengthBefore": 174,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 741,
+      "id": "ui_case186",
+      "originalLength": 1462,
+      "koLengthBefore": 728,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 742,
+      "id": "case_case111",
+      "originalLength": 63,
+      "koLengthBefore": 142,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 743,
+      "id": "case_case61",
+      "originalLength": 261,
+      "koLengthBefore": 139,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 744,
+      "id": "ui_case167",
+      "originalLength": 8502,
+      "koLengthBefore": 5390,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 745,
+      "id": "comparison_case112",
+      "originalLength": 551,
+      "koLengthBefore": 272,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 746,
+      "id": "comparison_case106",
+      "originalLength": 275,
+      "koLengthBefore": 129,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 747,
+      "id": "comparison_case88",
+      "originalLength": 906,
+      "koLengthBefore": 442,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 748,
+      "id": "ecommerce_case163",
+      "originalLength": 752,
+      "koLengthBefore": 406,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 749,
+      "id": "poster_case380",
+      "originalLength": 2000,
+      "koLengthBefore": 1043,
+      "flags": [
+        "원문 고정 길이 경계"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 750,
+      "id": "comparison_case92",
+      "originalLength": 545,
+      "koLengthBefore": 278,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 751,
+      "id": "case_case97",
+      "originalLength": 25,
+      "koLengthBefore": 43,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 752,
+      "id": "comparison_case101",
+      "originalLength": 3658,
+      "koLengthBefore": 2104,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 753,
+      "id": "ui_case165",
+      "originalLength": 2613,
+      "koLengthBefore": 1372,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 754,
+      "id": "comparison_case105",
+      "originalLength": 136,
+      "koLengthBefore": 67,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 755,
+      "id": "comparison_case97",
+      "originalLength": 4025,
+      "koLengthBefore": 2447,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "originalTemplate",
+        "input",
+        "mode"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 756,
+      "id": "comparison_case30",
+      "originalLength": 54,
+      "koLengthBefore": 25,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 757,
+      "id": "comparison_case79",
+      "originalLength": 1166,
+      "koLengthBefore": 606,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 758,
+      "id": "comparison_case73",
+      "originalLength": 1731,
+      "koLengthBefore": 1076,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 759,
+      "id": "comparison_case109",
+      "originalLength": 550,
+      "koLengthBefore": 262,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 760,
+      "id": "comparison_case84",
+      "originalLength": 1358,
+      "koLengthBefore": 872,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 761,
+      "id": "comparison_case99",
+      "originalLength": 22846,
+      "koLengthBefore": 12946,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 762,
+      "id": "case_case109",
+      "originalLength": 265,
+      "koLengthBefore": 540,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 763,
+      "id": "case_case66",
+      "originalLength": 149,
+      "koLengthBefore": 74,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 764,
+      "id": "ui_case173",
+      "originalLength": 2117,
+      "koLengthBefore": 1190,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 765,
+      "id": "comparison_case91",
+      "originalLength": 903,
+      "koLengthBefore": 513,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 766,
+      "id": "portrait_case198",
+      "originalLength": 828,
+      "koLengthBefore": 421,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 767,
+      "id": "portrait_case274",
+      "originalLength": 515,
+      "koLengthBefore": 295,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 768,
+      "id": "comparison_case102",
+      "originalLength": 2000,
+      "koLengthBefore": 1093,
+      "flags": [
+        "원문 고정 길이 경계"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 769,
+      "id": "comparison_case32",
+      "originalLength": 12,
+      "koLengthBefore": 23,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 770,
+      "id": "comparison_case10",
+      "originalLength": 509,
+      "koLengthBefore": 1050,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 771,
+      "id": "poster_case137",
+      "originalLength": 3770,
+      "koLengthBefore": 2235,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 772,
+      "id": "case_case67",
+      "originalLength": 55,
+      "koLengthBefore": 28,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 773,
+      "id": "case_case65",
+      "originalLength": 55,
+      "koLengthBefore": 24,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 774,
+      "id": "ui_case176",
+      "originalLength": 1186,
+      "koLengthBefore": 659,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 775,
+      "id": "ui_case121",
+      "originalLength": 1728,
+      "koLengthBefore": 994,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 776,
+      "id": "ui_case148",
+      "originalLength": 1019,
+      "koLengthBefore": 477,
+      "flags": [
+        "번역 길이 짧음",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "title",
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 777,
+      "id": "case_case101",
+      "originalLength": 44,
+      "koLengthBefore": 56,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 778,
+      "id": "comparison_case93",
+      "originalLength": 954,
+      "koLengthBefore": 564,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 779,
+      "id": "comparison_case83",
+      "originalLength": 1200,
+      "koLengthBefore": 1455,
+      "flags": [
+        "원문 고정 길이 경계",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 780,
+      "id": "comparison_case74",
+      "originalLength": 1759,
+      "koLengthBefore": 1006,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 781,
+      "id": "comparison_case29",
+      "originalLength": 174,
+      "koLengthBefore": 399,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 782,
+      "id": "case_case91",
+      "originalLength": 30,
+      "koLengthBefore": 59,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title",
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 783,
+      "id": "case_case95",
+      "originalLength": 71,
+      "koLengthBefore": 141,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 784,
+      "id": "portrait_case222",
+      "originalLength": 46,
+      "koLengthBefore": 26,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 785,
+      "id": "comparison_case98",
+      "originalLength": 9128,
+      "koLengthBefore": 5195,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 786,
+      "id": "comparison_case76",
+      "originalLength": 350,
+      "koLengthBefore": 201,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 787,
+      "id": "comparison_case78",
+      "originalLength": 476,
+      "koLengthBefore": 279,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 788,
+      "id": "comparison_case33",
+      "originalLength": 84,
+      "koLengthBefore": 184,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 789,
+      "id": "case_case112",
+      "originalLength": 752,
+      "koLengthBefore": 1258,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 790,
+      "id": "comparison_case72",
+      "originalLength": 2358,
+      "koLengthBefore": 1449,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 791,
+      "id": "case_case93",
+      "originalLength": 543,
+      "koLengthBefore": 1104,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 792,
+      "id": "case_case92",
+      "originalLength": 30,
+      "koLengthBefore": 69,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 793,
+      "id": "comparison_case87",
+      "originalLength": 3840,
+      "koLengthBefore": 2144,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 794,
+      "id": "comparison_case110",
+      "originalLength": 504,
+      "koLengthBefore": 342,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko",
+        "title"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 795,
+      "id": "ui_case164",
+      "originalLength": 3802,
+      "koLengthBefore": 2411,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 796,
+      "id": "poster_case391",
+      "originalLength": 3947,
+      "koLengthBefore": 2234,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 797,
+      "id": "character_case15",
+      "originalLength": 205,
+      "koLengthBefore": 353,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 798,
+      "id": "case_case113",
+      "originalLength": 82,
+      "koLengthBefore": 94,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 799,
+      "id": "comparison_case31",
+      "originalLength": 40,
+      "koLengthBefore": 45,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 800,
+      "id": "comparison_case111",
+      "originalLength": 3468,
+      "koLengthBefore": 1942,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 801,
+      "id": "case_case99",
+      "originalLength": 61,
+      "koLengthBefore": 74,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 802,
+      "id": "comparison_case70",
+      "originalLength": 1509,
+      "koLengthBefore": 764,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 803,
+      "id": "comparison_case37",
+      "originalLength": 79,
+      "koLengthBefore": 133,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 804,
+      "id": "comparison_case34",
+      "originalLength": 28,
+      "koLengthBefore": 15,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 805,
+      "id": "comparison_case39",
+      "originalLength": 42,
+      "koLengthBefore": 36,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 806,
+      "id": "comparison_case35",
+      "originalLength": 106,
+      "koLengthBefore": 61,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 807,
+      "id": "comparison_case23",
+      "originalLength": 1399,
+      "koLengthBefore": 2544,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 808,
+      "id": "ui_case161",
+      "originalLength": 726,
+      "koLengthBefore": 375,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 809,
+      "id": "ui_case182",
+      "originalLength": 1118,
+      "koLengthBefore": 604,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 810,
+      "id": "comparison_case89",
+      "originalLength": 270,
+      "koLengthBefore": 141,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 811,
+      "id": "comparison_case85",
+      "originalLength": 3956,
+      "koLengthBefore": 1726,
+      "flags": [
+        "숫자 표기 차이",
+        "번역 길이 짧음",
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 812,
+      "id": "comparison_case86",
+      "originalLength": 770,
+      "koLengthBefore": 408,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 813,
+      "id": "case_case94",
+      "originalLength": 26,
+      "koLengthBefore": 55,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 814,
+      "id": "case_case96",
+      "originalLength": 30,
+      "koLengthBefore": 61,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "title",
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 815,
+      "id": "case_case102",
+      "originalLength": 205,
+      "koLengthBefore": 320,
+      "flags": [],
+      "corrected": true,
+      "correctedFields": [
+        "ko"
+      ],
+      "detailReview": true
+    },
+    {
+      "index": 816,
+      "id": "case_case100",
+      "originalLength": 27,
+      "koLengthBefore": 54,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 817,
+      "id": "comparison_case75",
+      "originalLength": 3573,
+      "koLengthBefore": 2208,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 818,
+      "id": "case_case107",
+      "originalLength": 38,
+      "koLengthBefore": 87,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 819,
+      "id": "case_case110",
+      "originalLength": 605,
+      "koLengthBefore": 1190,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 820,
+      "id": "case_case98",
+      "originalLength": 335,
+      "koLengthBefore": 529,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 821,
+      "id": "comparison_case108",
+      "originalLength": 1613,
+      "koLengthBefore": 808,
+      "flags": [
+        "구조화·다단계·변수 참조 포함"
+      ],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": true
+    },
+    {
+      "index": 822,
+      "id": "comparison_case82",
+      "originalLength": 187,
+      "koLengthBefore": 103,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 823,
+      "id": "comparison_case5",
+      "originalLength": 195,
+      "koLengthBefore": 74,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    },
+    {
+      "index": 824,
+      "id": "comparison_case80",
+      "originalLength": 30,
+      "koLengthBefore": 57,
+      "flags": [],
+      "corrected": false,
+      "correctedFields": [],
+      "detailReview": false
+    }
+  ],
+  "manualCorrections": [
+    {
+      "id": "poster_case110",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "border를 국경으로 오역한 문맥을 테두리 장식 필드로 복원했습니다.",
+        "green house는 지도 범례의 초록색 집이며 온실이 아니므로 수정했습니다.",
+        "지도 주의문과 중국어 장소·음식 라벨의 누락 및 혼합 문자 손상을 복원했습니다."
+      ]
+    },
+    {
+      "id": "poster_case339",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case128",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "antique gold에서 금색이 누락된 번역을 복원했습니다.",
+        "figured wood를 나무 형태로 오역한 부분을 나뭇결로 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case326",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "일본어 기도패 문구의 번역 손상을 복원했습니다.",
+        "일본어 고정 문구를 복원했습니다."
+      ]
+    },
+    {
+      "id": "poster_case111",
+      "fields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "원문에 명시되거나 지시 대상이 된 입력 이미지를 준비물 안내와 모드에 반영했습니다."
+      ]
+    },
+    {
+      "id": "poster_case108",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case171",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case191",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case121",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "Hand-Green 등 손상된 미번역 구절을 원문의 hand-drawn signal graphics에 맞춰 교정했습니다.",
+        "원문에서 지정한 아카이브 포스터 메타데이터 문구를 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case107",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case112",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case179",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "원문 앞의 안내 이모지만 편집본에서 제외하여 JSON 문자열 치환을 보장한다. 출처 원문은 보존한다."
+      ]
+    },
+    {
+      "id": "ui_case194",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "전체 1위 순위의 No.1이 번역에서 누락되어 복원했습니다.",
+        "라이브 UI에 직접 표시되는 호스트 정보와 버튼 문구를 복원했습니다.",
+        "사용자 이름과 채팅창에 직접 표시할 원문 문구를 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case185",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case118",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "여러 장면의 카메라 스트랩을 여러 개의 스트랩으로 오역한 부분을 수정했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case71",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case137",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 JSON 키·객체·배열·숫자형 구조를 복원하고, 이미지에 그릴 고정 문구와 변수 정의를 원문 그대로 보존했습니다.",
+        "deep-atmosphere를 심해로 오역한 부분을 가스 행성의 깊은 대기권으로 수정했습니다.",
+        "경고 화면에 표시할 정확한 영문 텍스트와 -453% 값을 복원했습니다."
+      ]
+    },
+    {
+      "id": "poster_case50",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다.",
+        "서명 핸들과 광선·문구 의미의 명백한 오역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case72",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case376",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case332",
+      "fields": [
+        "ko",
+        "title"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다.",
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case338",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case262",
+      "fields": [
+        "ko",
+        "title"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다.",
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case261",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case279",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case324",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case365",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case403",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case354",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case163",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case157",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "poster_case297",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다.",
+        "의사 코드의 클래스명과 벨의 정리를 복원하고 누락된 장치 창작·보이지 않는 물리 법칙 시각화 조건을 복구했습니다."
+      ]
+    },
+    {
+      "id": "poster_case32",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case125",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case152",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case192",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case170",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "ui_case124",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case104",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case83",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case110",
+      "fields": [
+        "ko",
+        "title"
+      ],
+      "reasons": [
+        "번역 과정에서 달라진 입력 자리표시자를 원문 이름으로 복원하여 같은 변수의 반복 참조가 끊기지 않게 했습니다.",
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다.",
+        "Pencil Shaving을 연필 면도로 오역한 부분을 수정했습니다. 모호한 원문의 4 days $ 문구는 임의로 내용을 만들지 않았습니다."
+      ]
+    },
+    {
+      "id": "poster_case56",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "작가 서명 핸들을 번역하지 않고 원문 그대로 복원했습니다.",
+        "하나의 주제 변수가 세 가지 이름과 괄호로 분열되어 원문 이름 【主题】로 통일했습니다."
+      ]
+    },
+    {
+      "id": "poster_case127",
+      "fields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "removing의 부정 조건이 반대로 번역된 문제와 three-quarter view를 크기로 해석한 오류를 수정했습니다. 보조 도해 3종과 소재 견본 2개를 하나의 그룹으로 명시해 원문의 항목을 모두 보존했습니다.",
+        "원문에 명시되거나 지시 대상이 된 입력 이미지를 준비물 안내와 모드에 반영했습니다."
+      ]
+    },
+    {
+      "id": "poster_case172",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "잡지 표지의 Edition 07을 날짜로 바꾼 오역을 바로잡고 지정된 표지 문구를 복원했습니다."
+      ]
+    },
+    {
+      "id": "ui_case117",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "frozen을 영화 제목으로 오역한 부분을 냉동으로 고치고 고정 푸터의 구분자를 원문대로 보존했습니다. 명시 변수와 별개인 제품명·도메인은 임의로 연결하지 않았습니다.",
+        "포장 제품명과 푸터 제품명을 동일 product name 입력에 연결하고 웹사이트는 독립 입력으로 노출했습니다. 원문 보관본은 유지하며 편집본에서 고정 대문자 표기를 제품명 기본값에 맞춰 통일했습니다.",
+        "원문 보관본과 재사용 가능한 영문 편집본을 분리하여 동일 제품명·웹사이트 입력을 영문에서도 반영합니다."
+      ]
+    },
+    {
+      "id": "case_case84",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "온라인 시청자 수를 온라인 번호로, 인기 지수 18+를 성인 나이로 바꾼 오역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "case_case108",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "온라인 시청자 수를 온라인 번호로, 인기 지수 18+를 성인 나이로 바꾼 오역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case39",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "일본어 バット는 야구 방망이이므로 박쥐라는 오역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case33",
+      "fields": [
+        "title",
+        "ko"
+      ],
+      "reasons": [
+        "大闹天空은 문맥상 손오공의 대요천궁 장면을 가리키므로 하늘을 그려 달라는 오역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "case_case91",
+      "fields": [
+        "title",
+        "ko"
+      ],
+      "reasons": [
+        "인물·무기 고유명과 제목을 명확히 복원했습니다."
+      ]
+    },
+    {
+      "id": "case_case96",
+      "fields": [
+        "title",
+        "ko"
+      ],
+      "reasons": [
+        "사진을 찍는 주체와 피사체가 뒤바뀐 번역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case41",
+      "fields": [
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문에 명시되거나 지시 대상이 된 입력 이미지를 준비물 안내와 모드에 반영했습니다."
+      ]
+    },
+    {
+      "id": "poster_case418",
+      "fields": [
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문에 명시되거나 지시 대상이 된 입력 이미지를 준비물 안내와 모드에 반영했습니다."
+      ]
+    },
+    {
+      "id": "poster_case304",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case401",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case274",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case353",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case399",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case362",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case305",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "디자인 맥락의 editorial/square/shaving을 명백하게 잘못 번역한 제목을 교정했습니다."
+      ]
+    },
+    {
+      "id": "ui_case115",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "원문은 서로 다른 여성 2명의 머리색에 같은 변수명을 사용합니다. 왼쪽·오른쪽 여성의 입력 변수를 분리하여 한 값으로 잘못 합쳐지는 충돌을 해결했습니다.",
+        "출처 원문 original은 보존하고, 편집용 originalTemplate에서만 서로 다른 사람의 머리색 변수명을 분리했습니다."
+      ]
+    },
+    {
+      "id": "poster_case39",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "과학 도해를 지도로, 국소 특징을 지역 기능으로 오역한 부분을 교정하고 원문 주제 변수를 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case54",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "과학 도해를 지도로, 국소 특징을 지역 기능으로 오역한 부분을 교정하고 원문 주제 변수를 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case25",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "원문의 주제 입력 자리표시자를 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case11",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "仰拍을 위에서 내려다보는 오버헤드 촬영으로 뒤집은 오류를 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case253",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "半身入镜는 반신 프레이밍, 通缉令은 현상수배문, 人物档案은 인물 프로필이므로 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case42",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "雾化와 宋体 오역을 수정하고 지정된 중국어 제목 및 별도 일본어 문장의 컬러 도감 조건을 복원했습니다. 원문에 서로 다른 요청이 함께 있는 점은 별도 기록했습니다."
+      ]
+    },
+    {
+      "id": "poster_case281",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "월 이름을 날짜로 바꾸고 수요일·토요일을 손실한 달력 조건을 원문대로 복원했습니다. 手账와 微醺의 오역도 수정했습니다."
+      ]
+    },
+    {
+      "id": "ui_case40",
+      "fields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "반복된 일본어·한글 혼합 손상 문장을 원문 전체와 대조해 완전한 한국어로 다시 번역했습니다. 원문에 연속된 4가지 요청은 그대로 구분해 보존합니다.",
+        "원문에는 독립된 요청 여러 개가 섞여 있으며 마지막 광고 제작 요청은 스토리보드 이미지가 필요하므로 준비물을 조건부로 명시했습니다."
+      ]
+    },
+    {
+      "id": "ui_case32",
+      "fields": [
+        "ko",
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "手相와 濃淡을 절차·농담으로 오역한 부분을 바로잡고 원문 조건을 모두 보존했습니다.",
+        "원문에서 지칭하는 입력 사진·동영상 프레임이 준비물에 빠져 있어 복원했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case30",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "Counter-Strike 게임 이름을 반격이라는 일반 명사로 번역한 오류를 수정했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case84",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "15s를 15년대로 바꾸고 동작·시선·샷 용어를 오역한 부분을 원문 전체와 대조하여 수정했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case102",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "일본어 고정 텍스트 손상, rice shaping·tare sauce의 오역을 수정했습니다. 원문 자체 잘린 이후 내용은 추가하지 않았습니다."
+      ]
+    },
+    {
+      "id": "comparison_case93",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "exploded diagram을 폭발한 물체로 오역한 부분을 기술 분해도로 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case429",
+      "fields": [
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문에서 지칭하는 입력 사진·동영상 프레임이 준비물에 빠져 있어 복원했습니다."
+      ]
+    },
+    {
+      "id": "poster_case307",
+      "fields": [
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문에서 지칭하는 입력 사진·동영상 프레임이 준비물에 빠져 있어 복원했습니다."
+      ]
+    },
+    {
+      "id": "ui_case112",
+      "fields": [
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문에서 지칭하는 입력 사진·동영상 프레임이 준비물에 빠져 있어 복원했습니다."
+      ]
+    },
+    {
+      "id": "case_case61",
+      "fields": [
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "원문에서 지칭하는 입력 사진·동영상 프레임이 준비물에 빠져 있어 복원했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case85",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "반죽의 물 재료, 패널 5 제목·칼집 동작, 오븐 투입 과정, 고양이와 제빵사의 주체가 누락·뒤바뀐 번역을 원문 8개 장면 모두와 대조해 복구했습니다."
+      ]
+    },
+    {
+      "id": "ui_case177",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "13개 장면 중 길을 잃는 장면·날아가는 지도·비둘기 무리가 번역에서 빠지고 합쳐져 있어 전부 복원했습니다. photobomb도 광폭탄 대신 우연히 사진에 끼어드는 장면으로 바로잡았습니다."
+      ]
+    },
+    {
+      "id": "ui_case148",
+      "fields": [
+        "title",
+        "ko"
+      ],
+      "reasons": [
+        "입력 토큰을 원문 그대로 보존하고 heliotropic·louvre를 태양열·루브르로 오역한 부분을 태양 추적·루버로 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case155",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "상단 제품명의 동일한 반복 표기를 product 변수에 연결하고 머리 모양 bun을 빵으로 오역한 부분을 수정했습니다.",
+        "제품명 반복 표기를 영문 편집본에도 연결했습니다. AIRPODS 제품군 표기와 사양 수치는 독립된 고정 예시로 유지합니다.",
+        "제품군 헤드라인 AIRPODS도 독립 입력으로 노출하여 다른 제품명으로 재사용할 때 함께 수정할 수 있게 했습니다.",
+        "영문 편집본에도 독립 제품군 헤드라인 변수를 추가했습니다."
+      ]
+    },
+    {
+      "id": "poster_case139",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "같은 벽화 대상과 배경을 반복 서술하는 문장도 해당 변수와 연결했습니다.",
+        "원문 보관본을 보존하고, 동일한 벽화 대상·배경이 반복되는 영문 편집본의 두 문장을 입력 변수와 연결했습니다."
+      ]
+    },
+    {
+      "id": "poster_case270",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "四宫格는 격자무늬가 아니라 네 개의 패널이므로 제목을 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case268",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "Trash Polka는 미술 스타일 이름이므로 쓰레기라는 직역을 음역으로 수정했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case29",
+      "fields": [
+        "title"
+      ],
+      "reasons": [
+        "중국어 지명 狮驼岭을 낱말별 직역 대신 사타령으로 표기했습니다."
+      ]
+    },
+    {
+      "id": "poster_case320",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "white paper를 문서 백서로 오역한 부분을 종이 질감으로 수정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case122",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "책상 위·앞의 위치 오역을 고치고 원문에서 지정한 영어 섹션 제목·브러시 연구 캡션을 복원했습니다."
+      ]
+    },
+    {
+      "id": "ui_case36",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "bullet screen은 총알·글머리 기호가 아닌 화면 위 실시간 댓글을 뜻하므로 교정했습니다."
+      ]
+    },
+    {
+      "id": "ui_case88",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "화면에 들어갈 중국어 광고 문구를 번역 과정에서 변형하지 않고 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case7",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "팻말에 정확히 적을 중국어 문구를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "ui_case37",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "팻말에 정확히 적을 중국어 문구를 원문 그대로 보존했습니다."
+      ]
+    },
+    {
+      "id": "poster_case272",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "流光을 깃발·방송 진행자로 오해할 수 있는 표현 대신 흐르는 빛으로 교정했습니다."
+      ]
+    },
+    {
+      "id": "poster_case283",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "같은 여성 피사체의 주체가 바뀌고 절제된 의상이 구속으로 바뀐 번역을 수정했습니다."
+      ]
+    },
+    {
+      "id": "case_case102",
+      "fields": [
+        "ko"
+      ],
+      "reasons": [
+        "烟花巷와 社畜를 불꽃놀이 골목·동물로 오역한 부분을 문맥에 맞게 수정했습니다."
+      ]
+    },
+    {
+      "id": "comparison_case97",
+      "fields": [
+        "ko",
+        "originalTemplate",
+        "input",
+        "mode"
+      ],
+      "reasons": [
+        "카메라 위치·머리 교체 동작의 오역을 수정했습니다. 원문의 최종 참조 char1은 시작 캐릭터 정의와 P08/P09의 최종 char2에 모순되므로 편집본만 최종 char2로 통일했습니다.",
+        "원문은 보존하고 최종 변신을 지칭하는 영문 편집본의 잘못된 char1 참조만 char2로 교정했습니다."
+      ]
+    },
+    {
+      "id": "portrait_case296",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "말미 VARIABLES의 논리 이름과 본문에 들어 있던 구체적 예시값 4개를 연결했습니다. LOCATION·BACKGROUND_ELEMENTS·MAIN_TEXT·SECONDARY_TEXT는 기존 예시를 기본값으로 보존하며 입력 변경 시 본문과 변수 설명에 함께 반영됩니다. 원문 original은 보존합니다."
+      ]
+    },
+    {
+      "id": "case_case112",
+      "fields": [
+        "ko",
+        "originalTemplate"
+      ],
+      "reasons": [
+        "같은 음식명이 번역에서 음식 이름·음식명·식품명으로 갈라진 것을 food item 하나로 통일했습니다. 표면·내부·단면·부제 입력을 명시 argument로 만들고, 6개 구조의 이름·데이터·역할은 구조별 독립 변수로 범위를 나누어 모든 구조에 같은 값이 복제되는 문제를 막았습니다. 원문 보관본은 그대로 둡니다.",
+        "純粹를 투명으로, 一句人话를 사람의 인용으로, 15字를 15단어로 오역한 부분을 각각 순수한 검정·쉬운 설명·15자로 바로잡았습니다."
+      ]
+    }
+  ],
+  "jsonValidation": [
+    {
+      "id": "poster_case110",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 62,
+      "koLeafCount": 62
+    },
+    {
+      "id": "poster_case339",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 9,
+      "koLeafCount": 9
+    },
+    {
+      "id": "poster_case128",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 122,
+      "koLeafCount": 122
+    },
+    {
+      "id": "poster_case326",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 53,
+      "koLeafCount": 53
+    },
+    {
+      "id": "poster_case111",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 30,
+      "koLeafCount": 30
+    },
+    {
+      "id": "poster_case108",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 63,
+      "koLeafCount": 63
+    },
+    {
+      "id": "poster_case171",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 16,
+      "koLeafCount": 16
+    },
+    {
+      "id": "ui_case191",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 87,
+      "koLeafCount": 87
+    },
+    {
+      "id": "poster_case121",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 77,
+      "koLeafCount": 77
+    },
+    {
+      "id": "poster_case107",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 72,
+      "koLeafCount": 72
+    },
+    {
+      "id": "poster_case112",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 45,
+      "koLeafCount": 45
+    },
+    {
+      "id": "ui_case179",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 46,
+      "koLeafCount": 46
+    },
+    {
+      "id": "ui_case194",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 31,
+      "koLeafCount": 31
+    },
+    {
+      "id": "ui_case185",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 72,
+      "koLeafCount": 72
+    },
+    {
+      "id": "ui_case118",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 52,
+      "koLeafCount": 52
+    },
+    {
+      "id": "comparison_case71",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 37,
+      "koLeafCount": 37
+    },
+    {
+      "id": "poster_case137",
+      "validJson": true,
+      "sameKeyArrayTypeShape": true,
+      "originalLeafCount": 42,
+      "koLeafCount": 42
+    }
+  ],
+  "validationAfter": {
+    "correctedCount": 98,
+    "validOwnershipRange": true,
+    "uniqueCheckedIds": true,
+    "argumentTokenParityAgainstEditableOriginal": true,
+    "jsonKeyArrayTypeShapeParity": true,
+    "errors": []
+  },
+  "numberDifferenceResolutions": [
+    {
+      "id": "poster_case141",
+      "decision": "3을 세 가지로 번역하여 수량이 보존됨. 변경 불필요."
+    },
+    {
+      "id": "ui_case172",
+      "decision": "$200 million을 2억 달러로 올바르게 번역. 변경 불필요."
+    },
+    {
+      "id": "case_case84",
+      "decision": "99996 숫자는 쉼표 표기 차이였으나 시청자수/인기지수 의미 오류가 있어 교정."
+    },
+    {
+      "id": "case_case108",
+      "decision": "case_case84와 같은 원문이므로 동일 교정."
+    },
+    {
+      "id": "poster_case172",
+      "decision": "Edition 07 / 2026의 날짜 오역을 복원."
+    },
+    {
+      "id": "poster_case281",
+      "decision": "월명 01/02/03 등을 날짜로 바꾼 오역과 요일 손실 복원."
+    },
+    {
+      "id": "comparison_case85",
+      "decision": "Panel 5 제목과 동작 누락을 8개 장면 전면 대조해 복원."
+    }
+  ],
+  "remainingUncertainty": [
+    {
+      "id": "poster_case374",
+      "kind": "원문 절단 확정",
+      "evidence": "2000자, JSON 문자열 crispy g에서 끝나며 배열·객체 닫힘 없음. 부모가 pinned upstream 코드블록과 동일함을 확인.",
+      "action": "내용 추정 복구하지 않음. 부모의 sourceStatus/sourceNote 처리 대상."
+    },
+    {
+      "id": "poster_case380",
+      "kind": "원문 절단 확정",
+      "evidence": "2000자, Epic frontal cinematic shot of massive에서 문장이 끝남.",
+      "action": "내용 추정 복구하지 않음. 부모의 출처 미완성 표시 대상."
+    },
+    {
+      "id": "comparison_case83",
+      "kind": "원문 절단 확정",
+      "evidence": "1200자, 부정 제약 마지막 항목이 避免信息层에서 끝남.",
+      "action": "확인 가능한 본문·변수는 복원, 없어진 제약 내용은 발명하지 않음."
+    },
+    {
+      "id": "poster_case364",
+      "kind": "고정 길이 절단 의심",
+      "evidence": "2000자, Style Direction 이후 Candid nightlife photograph로 끝남.",
+      "action": "확인 가능한 본문은 보존. 원게시물 대조 및 상태 표시는 부모가 수행."
+    },
+    {
+      "id": "poster_case379",
+      "kind": "고정 길이 절단 의심",
+      "evidence": "2000자, 별도 단락 Luxury black gift box로 끝남.",
+      "action": "후속 문장 발명하지 않음."
+    },
+    {
+      "id": "comparison_case102",
+      "kind": "고정 길이 절단 의심",
+      "evidence": "2000자, Liquid Realism Rules의 No drip에서 끝남.",
+      "action": "확인되는 일본어 손상·밥 성형·타레 소스 번역을 교정. 미제공 후속 규칙은 추가하지 않음."
+    },
+    {
+      "id": "poster_case277",
+      "kind": "빈 후속 제목",
+      "evidence": "Scene Variations: 뒤 내용 없음.",
+      "action": "본문 장면은 완결되어 있음. 없는 변형안을 발명하지 않음."
+    },
+    {
+      "id": "ui_case178",
+      "kind": "빈 후속 제목",
+      "evidence": "Full prompt: 뒤 내용 없음.",
+      "action": "앞 인포그래픽 본문은 독립적으로 사용 가능. 미제공 추가 프롬프트는 발명하지 않음."
+    },
+    {
+      "id": "portrait_case222",
+      "kind": "내용 부족",
+      "evidence": "원문은 Step 1: Generate storyboard with GPT Image 2 한 줄.",
+      "action": "구체적 사이클링 프롬프트가 제공되지 않아 임의 장면 창작하지 않음."
+    },
+    {
+      "id": "poster_case385",
+      "kind": "내용 부족",
+      "evidence": "원문은 FIFA World Cup 2026 hero throne sports artwork. 🧵 한 줄.",
+      "action": "짧은 주제 지시 자체는 보존. 미제공 상세 조건을 발명하지 않음."
+    },
+    {
+      "id": "poster_case42",
+      "kind": "서로 다른 요청 혼합",
+      "evidence": "광저우 포스터 뒤에 데메니기스 컬러 도감 페이지 일본어 요청이 이어짐.",
+      "action": "각 문장의 의미는 복원하고 원문 병합 상태는 보존. 자동으로 둘 중 하나를 삭제하지 않음."
+    },
+    {
+      "id": "ui_case40",
+      "kind": "서로 다른 요청 혼합",
+      "evidence": "게임 개발 슬라이드 2개, 게임 스크린샷, storyboard image1 광고 요청이 한 원문에 있음.",
+      "action": "문단을 유지해 모두 번역하고 마지막 요청의 입력 이미지 필요를 안내."
+    },
+    {
+      "id": "comparison_case110",
+      "kind": "원문 표현 모호",
+      "evidence": "4 days $ scenes라는 구절은 원문부터 비문이며 정확한 날짜/장면 의도를 확정할 수 없음.",
+      "action": "연필 면도 오역과 변수명은 교정, 장면 내용은 추정하지 않음."
+    },
+    {
+      "id": "ui_case96",
+      "kind": "동일 기본값이지만 다른 용도의 변수",
+      "evidence": "headline text와 character name의 기본값이 모두 Monika이며 책 제목 Just Monika도 포함.",
+      "action": "독립 제목/인물 변수를 유지하고 책의 고정 제목에 추정 연계하지 않음."
+    },
+    {
+      "id": "poster_case121",
+      "kind": "고정 역사 콘텐츠와 인물 변수",
+      "evidence": "Claude Shannon 이름·연도·업적을 포함한 역사 포스터.",
+      "action": "지정된 라벨과 고정 역사 콘텐츠는 원문 유지. 인물명 변경만으로 역사 사실을 자동 재작성하지 않음."
+    }
+  ],
+  "limits": "전 항목은 구조·누락·손상 기준으로 검사했습니다. 문체 전반의 윤문이나 원문에 제공되지 않은 장면·변형·참조 이미지 창작은 하지 않았습니다. 원문 자체의 잘림·충돌·내용 부족은 확정 교정과 구분하여 기록했습니다.",
+  "additionalFinalReview": [
+    {
+      "id": "portrait_case296",
+      "reason": "말미 VARIABLES의 논리 이름과 본문에 들어 있던 구체적 예시값 4개를 연결했습니다. LOCATION·BACKGROUND_ELEMENTS·MAIN_TEXT·SECONDARY_TEXT는 기존 예시를 기본값으로 보존하며 입력 변경 시 본문과 변수 설명에 함께 반영됩니다. 원문 original은 보존합니다.",
+      "scope": "통합 후 읽기 전용 marker 검사에서 발견하여 부모가 추가 수정 승인"
+    },
+    {
+      "id": "case_case112",
+      "reason": "純粹를 투명으로, 一句人话를 사람의 인용으로, 15字를 15단어로 오역한 부분을 각각 순수한 검정·쉬운 설명·15자로 바로잡았습니다.",
+      "scope": "통합 후 읽기 전용 marker 검사에서 발견하여 부모가 추가 수정 승인"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "scope": {
+    "itemCount": 825,
+    "inputs": [
+      "data/catalog.json",
+      "audit/corrections-a.json",
+      "audit/corrections-b.json",
+      "audit/corrections-source.json"
+    ],
+    "readOnly": true,
+    "normalization": "Unicode NFKC + 연속 공백 1개로 축약 + 앞뒤 공백 제거. 원문 대소문자는 보존. 제목만 casefold 추가.",
+    "canonicalPolicy": "현재 카탈로그 배열 순서에서 첫 항목을 유지한다.",
+    "consolidationPolicy": "수동 확인한 동일 원문 7그룹만 목록에서 통합한다. 다른 출처와 이미지 경로를 보존하고 실제 이미지 파일의 바이트 동일성은 주장하지 않는다."
+  },
+  "summary": {
+    "titleCollisionGroups": 6,
+    "titleCollisionItems": 13,
+    "rawExactOriginalGroups": 6,
+    "normalizedExactOriginalGroups": 7,
+    "normalizedExactOriginalItems": 14,
+    "duplicateAliases": 7,
+    "visibleItemsAfterConsolidation": 818,
+    "remainingTitleCollisionGroups": 4,
+    "numberedTitles": 9,
+    "additionalExactStructureGroupsIgnoringArgumentDefault": 0,
+    "strictOriginalSourceImagePathIdenticalGroups": 0
+  },
+  "duplicateOf": {
+    "portrait_case267": "portrait_case271",
+    "portrait_case208": "portrait_case184",
+    "portrait_case210": "portrait_case223",
+    "poster_case24": "poster_case5",
+    "poster_case54": "poster_case39",
+    "case_case108": "case_case84",
+    "ui_case37": "ui_case7"
+  },
+  "duplicateGroups": [
+    {
+      "canonical": "portrait_case271",
+      "duplicates": [
+        "portrait_case267"
+      ],
+      "duplicateOf": {
+        "portrait_case267": "portrait_case271"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "원문 완전 일치",
+      "rawOriginalEqual": true,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": false,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "5939e6faad3249167ef08be5dd0104a0cc6a10287c4bf7795cfaf924c8704aa1",
+      "members": [
+        {
+          "id": "portrait_case271",
+          "title": "흑백 패션 그리드",
+          "source": "https://x.com/j_smeaton99/status/2063661848478859690",
+          "images": [
+            "images/portrait_case271/output.jpg"
+          ]
+        },
+        {
+          "id": "portrait_case267",
+          "title": "흑백 신원 콜라주 그리드",
+          "source": "https://x.com/mehvishs25/status/2063293613514330224",
+          "images": [
+            "images/portrait_case267/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다.",
+        "한국어 차이는 중간 길이의 인물 사진/중간 길이 인물 사진의 조사뿐이다."
+      ]
+    },
+    {
+      "canonical": "portrait_case184",
+      "duplicates": [
+        "portrait_case208"
+      ],
+      "duplicateOf": {
+        "portrait_case208": "portrait_case184"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "원문 완전 일치",
+      "rawOriginalEqual": true,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": true,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "700fc91c52b2a992a64dd46271269fad1d660404a6e95129ba40027fd62caae8",
+      "members": [
+        {
+          "id": "portrait_case184",
+          "title": "디지캠 LCD 노스탤지어 샷",
+          "source": "https://x.com/Ciri_ai/status/2055876982630686956",
+          "images": [
+            "images/portrait_case184/output.jpg"
+          ]
+        },
+        {
+          "id": "portrait_case208",
+          "title": "빈티지 카메라 LCD 스크린 샷",
+          "source": "https://twitter.com/ZaraElira4/status/2056786815978524772",
+          "images": [
+            "images/portrait_case208/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다."
+      ]
+    },
+    {
+      "canonical": "portrait_case223",
+      "duplicates": [
+        "portrait_case210"
+      ],
+      "duplicateOf": {
+        "portrait_case210": "portrait_case223"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "원문 완전 일치",
+      "rawOriginalEqual": true,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": true,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "0770fa95f12e2370b2faa0f13eac64df8aa5e44c1655d889c9964e436af9c5c0",
+      "members": [
+        {
+          "id": "portrait_case223",
+          "title": "Y2K 일본 거리 콜라주 포스터",
+          "source": "https://x.com/Kashberg_0/status/2057288879150182779",
+          "images": [
+            "images/portrait_case223/output.jpg"
+          ]
+        },
+        {
+          "id": "portrait_case210",
+          "title": "Y2K 일본 거리 에디토리얼 포스터",
+          "source": "https://x.com/noorlewisx/status/2057349206025847224",
+          "images": [
+            "images/portrait_case210/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다."
+      ]
+    },
+    {
+      "canonical": "poster_case5",
+      "duplicates": [
+        "poster_case24"
+      ],
+      "duplicateOf": {
+        "poster_case24": "poster_case5"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "원문 완전 일치",
+      "rawOriginalEqual": true,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": true,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "a64e5d06e071d9cafdcd7d0f6113b6bedc02d88bd50a43e38913701b4066f459",
+      "members": [
+        {
+          "id": "poster_case5",
+          "title": "2026 봄 광저우시 포스터",
+          "source": "https://x.com/liyue_ai/status/2045332620352119274",
+          "images": [
+            "images/poster_case5/output.jpg"
+          ]
+        },
+        {
+          "id": "poster_case24",
+          "title": "봄 광저우시 포스터",
+          "source": "https://x.com/alanlovelq/status/2045484598487060917",
+          "images": [
+            "images/poster_case24/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다."
+      ]
+    },
+    {
+      "canonical": "poster_case39",
+      "duplicates": [
+        "poster_case54"
+      ],
+      "duplicateOf": {
+        "poster_case54": "poster_case39"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "원문 완전 일치",
+      "rawOriginalEqual": true,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": true,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "5d604f303c0d411354a4921de1fdbbaa958f90c68495f0e0270c7d831365c9ca",
+      "members": [
+        {
+          "id": "poster_case39",
+          "title": "과학백과사전 인포그래픽",
+          "source": "https://x.com/MrLarus/status/2046231542817497392",
+          "images": [
+            "images/poster_case39/output.jpg"
+          ]
+        },
+        {
+          "id": "poster_case54",
+          "title": "테마 과학백과사전 카드",
+          "source": "https://x.com/alanlovelq/status/2046378199681257920",
+          "images": [
+            "images/poster_case54/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다."
+      ]
+    },
+    {
+      "canonical": "case_case84",
+      "duplicates": [
+        "case_case108"
+      ],
+      "duplicateOf": {
+        "case_case108": "case_case84"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "원문 완전 일치",
+      "rawOriginalEqual": true,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": true,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "3e688302c933b13336214485bd52e4494ccf7819db592b51e14ab3fb117c05b5",
+      "members": [
+        {
+          "id": "case_case84",
+          "title": "Douyin 라이브스트림 판매 스크린샷",
+          "source": "https://x.com/laogeai/status/2047228458351120625",
+          "images": [
+            "images/case_case84/output.jpg"
+          ]
+        },
+        {
+          "id": "case_case108",
+          "title": "Douyin 라이브스트림 판매 스크린샷",
+          "source": "https://x.com/LVWANGJI_0327/status/2046974302227206525",
+          "images": [
+            "images/case_case108/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다."
+      ]
+    },
+    {
+      "canonical": "ui_case7",
+      "duplicates": [
+        "ui_case37"
+      ],
+      "duplicateOf": {
+        "ui_case37": "ui_case7"
+      },
+      "recommendation": "통합 표시 및 기존 id 리디렉션, 원자료 보존",
+      "classification": "NFKC 정규화 원문 일치",
+      "rawOriginalEqual": false,
+      "normalizedOriginalEqual": true,
+      "koreanEqual": false,
+      "sourceUrlsEqual": false,
+      "imagePathsEqual": false,
+      "imageBytesCompared": false,
+      "normalizedOriginalSha256": "15674bfddcbb86729aa676a8a3313d3a338cd91066ccf74173c40352ee1b097f",
+      "members": [
+        {
+          "id": "ui_case7",
+          "title": "Liu Yifei Douyin 라이브스트림 스크린샷",
+          "source": "https://x.com/alanblogsooo/status/2044784762594918516",
+          "images": [
+            "images/ui_case7/output.jpg"
+          ]
+        },
+        {
+          "id": "ui_case37",
+          "title": "Liu Yifei Douyin 라이브스트림 스크린샷",
+          "source": "https://x.com/kylegeeks/status/2046479783765397629",
+          "images": [
+            "images/ui_case37/output.jpg"
+          ]
+        }
+      ],
+      "notes": [
+        "프롬프트 지시문이 일치하므로 목록에서는 현재 배열 순서의 첫 항목으로 대표화한다.",
+        "출처 URL과 이미지 경로는 다르므로 원자료를 삭제하지 않고 관련 출처와 결과 이미지로 보존한다.",
+        "원문 및 한국어 고정 팻말 문구에서 전각 쉼표/느낌표와 반각 쉼표/느낌표만 다르다. NFKC 정규화 일치 사례로 승인하며 원자료에는 해당 차이를 보존한다."
+      ]
+    }
+  ],
+  "titleCollisionGroups": [
+    {
+      "title": "부산 여행 일지 일러스트레이션",
+      "classification": "내용이 다른 유사 콘셉트",
+      "recommendation": "번호 구분",
+      "members": [
+        {
+          "id": "portrait_case188",
+          "title": "부산 여행 일지 일러스트레이션",
+          "source": "https://x.com/Sairah_0/status/2056580402761155037",
+          "images": [
+            "images/portrait_case188/output.jpg"
+          ]
+        },
+        {
+          "id": "poster_case275",
+          "title": "부산 여행 일지 일러스트레이션",
+          "source": "https://x.com/Naiknelofar788/status/2056189569515892819",
+          "images": [
+            "images/poster_case275/output.jpg"
+          ]
+        }
+      ],
+      "survivingIds": [
+        "portrait_case188",
+        "poster_case275"
+      ],
+      "displayTitles": {
+        "portrait_case188": "부산 여행 일지 일러스트레이션 1",
+        "poster_case275": "부산 여행 일지 일러스트레이션 2"
+      },
+      "notes": "portrait_case188은 해변 카페의 붉은 머리 소녀를 묘사하는 500자 잘린 원문이다. poster_case275는 업로드 참조 인물, 복수 포즈 선택, 도시/국가 입력과 네거티브 조건을 포함한 긴 원문이다. 같은 원문이 아니다."
+    },
+    {
+      "title": "후지필름 커플 인물 사진",
+      "classification": "의미와 구도가 매우 유사한 재서술",
+      "recommendation": "번호 구분",
+      "members": [
+        {
+          "id": "portrait_case17",
+          "title": "후지필름 커플 인물 사진",
+          "source": "https://x.com/BubbleBrain/status/2046502288102170757",
+          "images": [
+            "images/portrait_case17/output.jpg"
+          ]
+        },
+        {
+          "id": "portrait_case318",
+          "title": "후지필름 커플 인물 사진",
+          "source": "https://x.com/iamaiistudio/status/2069961089719353505",
+          "images": [
+            "images/portrait_case318/output.jpg"
+          ]
+        }
+      ],
+      "survivingIds": [
+        "portrait_case17",
+        "portrait_case318"
+      ],
+      "displayTitles": {
+        "portrait_case17": "후지필름 커플 인물 사진 1",
+        "portrait_case318": "후지필름 커플 인물 사진 2"
+      },
+      "notes": "같은 필름 감성·커플 의상·키스 직전 포즈를 공유하지만 문장, 구성, 세부 표현이 다르다. 완전일치가 아니므로 번호로 구분한다."
+    },
+    {
+      "title": "픽사 3D 캐릭터 디자인 시트",
+      "classification": "같은 형식의 서로 다른 내용",
+      "recommendation": "번호 구분",
+      "members": [
+        {
+          "id": "portrait_case206",
+          "title": "픽사 3D 캐릭터 디자인 시트",
+          "source": "https://twitter.com/TechieBySA/status/2056784334628036676",
+          "images": [
+            "images/portrait_case206/output.jpg"
+          ]
+        },
+        {
+          "id": "portrait_case236",
+          "title": "픽사 3D 캐릭터 디자인 시트",
+          "source": "https://x.com/TechieBySA/status/2057511465884557754",
+          "images": [
+            "images/portrait_case236/output.jpg"
+          ]
+        },
+        {
+          "id": "poster_case289",
+          "title": "픽사 3D 캐릭터 디자인 시트",
+          "source": "https://x.com/TechieBySA/status/2056419585369198677",
+          "images": [
+            "images/poster_case289/output.jpg"
+          ]
+        }
+      ],
+      "survivingIds": [
+        "portrait_case206",
+        "portrait_case236",
+        "poster_case289"
+      ],
+      "displayTitles": {
+        "portrait_case206": "픽사 3D 캐릭터 디자인 시트 1",
+        "portrait_case236": "픽사 3D 캐릭터 디자인 시트 2",
+        "poster_case289": "픽사 3D 캐릭터 디자인 시트 3"
+      },
+      "notes": "portrait_case206은 PAUL vs THE POLE VAULT, portrait_case236은 STEVE VS THE PLANK, poster_case289는 CHAD VS THE GYM MIRROR를 요청한다. 인물·상대·문구가 다르며 마지막 항목은 출처 잘림도 표시된다."
+    },
+    {
+      "title": "브랜드 아이덴티티 가이드라인",
+      "classification": "공통 앞부분을 가진 전체본과 축약본",
+      "recommendation": "번호 구분",
+      "members": [
+        {
+          "id": "ui_case149",
+          "title": "브랜드 아이덴티티 가이드라인",
+          "source": "https://x.com/Shorelyn_/status/2055681687284293991",
+          "images": [
+            "images/ui_case149/output.jpg"
+          ]
+        },
+        {
+          "id": "ui_case162",
+          "title": "브랜드 아이덴티티 가이드라인",
+          "source": "https://x.com/Ciri_ai/status/2060938931588472932",
+          "images": [
+            "images/ui_case162/output.jpg"
+          ]
+        }
+      ],
+      "survivingIds": [
+        "ui_case149",
+        "ui_case162"
+      ],
+      "displayTitles": {
+        "ui_case149": "브랜드 아이덴티티 가이드라인 1",
+        "ui_case162": "브랜드 아이덴티티 가이드라인 2"
+      },
+      "notes": "ui_case149는 색상·타이포·시각 언어·목업·레이아웃·아이콘·제약까지 있는 2237자 원문이다. ui_case162는 898자로 타이포그래피 street → bold condensed에서 끝나며 나머지 조건이 없다. 완전일치가 아니므로 통합하지 않는다."
+    },
+    {
+      "title": "Douyin 라이브스트림 판매 스크린샷",
+      "classification": "원문 중복 그룹과 동일",
+      "recommendation": "원문 중복 통합으로 해결",
+      "members": [
+        {
+          "id": "case_case84",
+          "title": "Douyin 라이브스트림 판매 스크린샷",
+          "source": "https://x.com/laogeai/status/2047228458351120625",
+          "images": [
+            "images/case_case84/output.jpg"
+          ]
+        },
+        {
+          "id": "case_case108",
+          "title": "Douyin 라이브스트림 판매 스크린샷",
+          "source": "https://x.com/LVWANGJI_0327/status/2046974302227206525",
+          "images": [
+            "images/case_case108/output.jpg"
+          ]
+        }
+      ],
+      "survivingIds": [
+        "case_case84"
+      ],
+      "displayTitles": {},
+      "notes": "중복 항목을 대표화하면 제목 충돌이 사라진다."
+    },
+    {
+      "title": "Liu Yifei Douyin 라이브스트림 스크린샷",
+      "classification": "원문 중복 그룹과 동일",
+      "recommendation": "원문 중복 통합으로 해결",
+      "members": [
+        {
+          "id": "ui_case7",
+          "title": "Liu Yifei Douyin 라이브스트림 스크린샷",
+          "source": "https://x.com/alanblogsooo/status/2044784762594918516",
+          "images": [
+            "images/ui_case7/output.jpg"
+          ]
+        },
+        {
+          "id": "ui_case37",
+          "title": "Liu Yifei Douyin 라이브스트림 스크린샷",
+          "source": "https://x.com/kylegeeks/status/2046479783765397629",
+          "images": [
+            "images/ui_case37/output.jpg"
+          ]
+        }
+      ],
+      "survivingIds": [
+        "ui_case7"
+      ],
+      "displayTitles": {},
+      "notes": "중복 항목을 대표화하면 제목 충돌이 사라진다."
+    }
+  ],
+  "displayTitles": {
+    "portrait_case188": "부산 여행 일지 일러스트레이션 1",
+    "poster_case275": "부산 여행 일지 일러스트레이션 2",
+    "portrait_case17": "후지필름 커플 인물 사진 1",
+    "portrait_case318": "후지필름 커플 인물 사진 2",
+    "portrait_case206": "픽사 3D 캐릭터 디자인 시트 1",
+    "portrait_case236": "픽사 3D 캐릭터 디자인 시트 2",
+    "poster_case289": "픽사 3D 캐릭터 디자인 시트 3",
+    "ui_case149": "브랜드 아이덴티티 가이드라인 1",
+    "ui_case162": "브랜드 아이덴티티 가이드라인 2"
+  },
+  "structureAudit": {
+    "method": "originalTemplate가 있으면 사용, 없으면 original 사용. {argument name=\"...\" default=\"...\"}에서 기본값만 제거한 뒤 NFKC 및 공백 정규화로 정확히 비교. 변수명 및 본문은 보존.",
+    "additionalGroups": [],
+    "notes": [
+      "기본값 제거 후 새롭게 일치하는 그룹은 없다.",
+      "후지필름 커플 그룹처럼 의미가 유사해도 정확한 구조가 다른 항목은 통합하지 않는다.",
+      "같은 출처·이미지 경로까지 일치하는 자료 중복은 0그룹이며, 제안한 통합은 원자료 보존형 UI 표시 통합이다."
+    ]
+  }
+}

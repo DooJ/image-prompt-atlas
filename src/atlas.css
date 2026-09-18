@@ -1,0 +1,31 @@
+#prompt-atlas .atlas-controls{display:grid;grid-template-columns:2fr 1fr;gap:16px}
+#prompt-atlas .atlas-case-control{grid-column:1/-1}
+#prompt-atlas .atlas-controls input,#prompt-atlas .atlas-controls select{width:100%;min-width:0}
+#prompt-atlas .atlas-controls label{min-width:0}
+#prompt-atlas #atlas-detail{margin-top:32px;border-top:1px solid var(--border);padding-top:24px}
+#prompt-atlas .atlas-input-note{margin:24px 0}
+#prompt-atlas .atlas-heading-row{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+#prompt-atlas .atlas-heading-row h3{margin:0}
+#prompt-atlas .atlas-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:16px 0}
+#prompt-atlas .atlas-field{min-width:0}
+#prompt-atlas .atlas-field label{display:block}
+#prompt-atlas .atlas-field textarea{width:100%}
+#prompt-atlas .atlas-variable-hint{display:block;margin-top:4px;overflow-wrap:anywhere}
+#prompt-atlas pre{white-space:pre-wrap;overflow-wrap:anywhere;max-width:100%;margin-top:12px}
+#prompt-atlas #atlas-template{width:100%;line-height:1.65}
+#prompt-atlas details{margin-top:20px}
+#prompt-atlas summary{cursor:pointer;padding:8px 0}
+#prompt-atlas .atlas-actions{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0}
+#prompt-atlas .atlas-validation{margin-top:16px;overflow-wrap:anywhere}
+#prompt-atlas .atlas-validation[data-state="error"]{color:var(--destructive)}
+#prompt-atlas .atlas-source-warning{padding:16px;border:1px solid var(--border);border-left:4px solid var(--destructive);line-height:1.7}
+#prompt-atlas .atlas-images{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:16px 0}
+#prompt-atlas .atlas-images:has(>figure:only-child){grid-template-columns:minmax(0,1fr)}
+#prompt-atlas figure{margin:0;min-width:0}
+#prompt-atlas figure img{display:block;width:100%;max-height:510px;object-fit:contain}
+#prompt-atlas figcaption{margin-top:6px}
+#prompt-atlas .atlas-sources{margin-top:16px;display:flex;gap:20px;flex-wrap:wrap}
+#prompt-atlas [hidden]{display:none!important}
+#prompt-atlas button:disabled{opacity:.5;cursor:not-allowed}
+#prompt-atlas select{max-width:100%}
+@media(max-width:600px){#prompt-atlas .atlas-controls,#prompt-atlas .atlas-fields,#prompt-atlas .atlas-images{grid-template-columns:minmax(0,1fr)}#prompt-atlas .atlas-heading-row{align-items:flex-start}#prompt-atlas .atlas-actions .btn{min-height:44px}}

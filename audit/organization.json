@@ -1,0 +1,55 @@
+{
+  "normalization": "Unicode NFKC + 연속 공백 1개로 축약 + 앞뒤 공백 제거. 원문 대소문자는 보존. 제목만 casefold 추가.",
+  "duplicateGroups": [
+    {
+      "canonicalId": "portrait_case271",
+      "duplicateIds": [
+        "portrait_case267"
+      ],
+      "reason": "원문 완전 일치"
+    },
+    {
+      "canonicalId": "portrait_case184",
+      "duplicateIds": [
+        "portrait_case208"
+      ],
+      "reason": "원문 완전 일치"
+    },
+    {
+      "canonicalId": "portrait_case223",
+      "duplicateIds": [
+        "portrait_case210"
+      ],
+      "reason": "원문 완전 일치"
+    },
+    {
+      "canonicalId": "poster_case5",
+      "duplicateIds": [
+        "poster_case24"
+      ],
+      "reason": "원문 완전 일치"
+    },
+    {
+      "canonicalId": "poster_case39",
+      "duplicateIds": [
+        "poster_case54"
+      ],
+      "reason": "원문 완전 일치"
+    },
+    {
+      "canonicalId": "case_case84",
+      "duplicateIds": [
+        "case_case108"
+      ],
+      "reason": "원문 완전 일치"
+    },
+    {
+      "canonicalId": "ui_case7",
+      "duplicateIds": [
+        "ui_case37"
+      ],
+      "reason": "NFKC 정규화 원문 일치"
+    }
+  ],
+  "titlePolicy": "통합 후 제목만 같은 사례는 현재 카탈로그 순서대로 1, 2, 3 번호를 붙인다."
+}

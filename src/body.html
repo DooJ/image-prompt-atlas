@@ -1,0 +1,69 @@
+<body>
+<main class="site-page">
+  <header class="site-header">
+    <h1>이미지 프롬프트 아틀라스</h1>
+    <p>사례를 고르고 원하는 내용을 입력하세요. 같은 변수는 한 번에 바뀌고, 문장과 단계의 순서는 그대로 유지됩니다.</p>
+    <p class="text-small text-muted" id="atlas-count">825개 사례를 불러오는 중입니다.</p>
+  </header>
+  <div id="prompt-atlas">
+    <div class="atlas-controls">
+      <label class="form-label">사례 검색<input id="atlas-search" class="form-control" type="search" placeholder="제목이나 키워드로 검색" autocomplete="off"></label>
+      <label class="form-label">이미지 종류<select class="form-select" id="atlas-category"></select></label>
+      <label class="form-label atlas-case-control">사례 선택<select class="form-select" id="atlas-case"></select></label>
+    </div>
+    <p id="atlas-search-status" class="text-small text-muted" role="status"></p>
+    <p id="atlas-no-results" hidden>일치하는 사례가 없습니다. 검색어나 이미지 종류를 바꿔 보세요.</p>
+    <section id="atlas-detail" hidden>
+      <h2 id="atlas-title"></h2>
+      <div class="viz-row"><span class="viz-badge" id="atlas-mode"></span><span id="atlas-id" class="text-small text-muted"></span></div>
+      <p id="atlas-source-warning" class="atlas-source-warning" role="note" hidden></p>
+      <p id="atlas-edit-note" class="text-small text-muted" hidden></p>
+      <div class="atlas-input-note"><h3>01 · 준비할 입력</h3><p id="atlas-input"></p></div>
+      <section id="atlas-editor" aria-label="프롬프트 편집">
+        <div class="atlas-heading-row">
+          <h3>02 · 프롬프트 편집</h3>
+          <label class="form-label">편집 언어<select class="form-select" id="atlas-language"><option value="ko">한국어</option><option value="original">원문</option></select></label>
+        </div>
+        <p id="atlas-format-note" class="text-small text-muted"></p>
+        <section id="atlas-variable-section" hidden>
+          <h4>변경할 값</h4>
+          <p class="text-small">같은 이름의 변수는 연결된 모든 위치에 함께 반영됩니다. 빈 입력은 완성본을 복사하기 전에 채워 주세요.</p>
+          <div id="atlas-fields" class="atlas-fields"></div>
+          <button type="button" class="btn btn-ghost" id="atlas-clear-fields">변수 입력 비우기</button>
+        </section>
+        <p id="atlas-no-variables" class="text-small">별도 입력 변수가 없는 사례입니다. 아래 전체 프롬프트에서 대상·문구·스타일을 직접 수정하세요.</p>
+        <details id="atlas-template-details">
+          <summary id="atlas-template-summary">전체 프롬프트 편집</summary>
+          <label for="atlas-template" class="form-label">프롬프트 본문</label>
+          <textarea id="atlas-template" class="form-control" rows="15" spellcheck="false"></textarea>
+          <p class="text-small text-muted">변수 표기를 유지하면 입력칸과 계속 연결됩니다. 한국어와 원문은 각각 별도의 편집본으로 유지됩니다.</p>
+        </details>
+        <div class="atlas-actions viz-row"><button type="button" class="btn btn-ghost" id="atlas-reset">현재 편집 되돌리기</button></div>
+        <div id="atlas-validation" class="atlas-validation" role="status" aria-live="polite"></div>
+        <details open><summary>완성 프롬프트 미리보기</summary><pre id="atlas-composed"></pre></details>
+        <div class="viz-row atlas-actions">
+          <button type="button" class="btn btn-primary" id="atlas-copy-composed">완성본 복사</button>
+          <button type="button" class="btn" id="atlas-copy-template" hidden>빈칸 템플릿 복사</button>
+          <button type="button" class="btn" id="atlas-copy-partial" hidden>공개된 부분만 복사</button>
+        </div>
+        <p id="atlas-template-note" class="text-small text-muted" hidden>빈칸 템플릿은 명시된 변수만 비웁니다. 본문의 나머지 예시·문구는 전체 프롬프트에서 수정할 수 있습니다.</p>
+        <div class="text-small" id="atlas-copy-status" role="status" aria-live="polite"></div>
+        <textarea id="atlas-copy-fallback" class="form-control" rows="5" readonly hidden aria-label="직접 복사할 프롬프트"></textarea>
+      </section>
+      <details><summary>수정 전 한국어·원문 확인</summary>
+        <h4>한국어</h4><pre id="atlas-korean-reference"></pre>
+        <h4 id="atlas-original-title">원문</h4><pre id="atlas-original-reference"></pre>
+      </details>
+      <h3>03 · 저장소에 공개된 결과</h3>
+      <p id="atlas-output"></p>
+      <div id="atlas-images" class="atlas-images"></div>
+      <p id="atlas-key" class="text-small text-muted"></p>
+      <p id="atlas-duplicates-note" class="text-small text-muted" hidden></p>
+      <div class="viz-row atlas-sources"><a id="atlas-repo" target="_blank" rel="noopener noreferrer">저장소 사례</a><a id="atlas-author" target="_blank" rel="noopener noreferrer">원 게시물 · 작성자</a></div>
+      <div id="atlas-related-sources" class="viz-row atlas-sources"></div>
+    </section>
+    <div id="atlas-error" role="alert" hidden>사례 정보를 표시하지 못했습니다. 페이지를 새로고침해 주세요.</div>
+    <noscript>프롬프트 편집에는 JavaScript가 필요합니다. 브라우저에서 JavaScript를 허용한 뒤 새로고침해 주세요.</noscript>
+  </div>
+  <footer class="site-footer text-small text-muted">프롬프트와 편집 기능은 이 파일에 포함되어 있습니다. 입력한 내용은 현재 페이지를 열어 둔 동안 유지됩니다. 결과 이미지와 출처 링크는 인터넷 연결이 필요합니다.</footer>
+</main>
