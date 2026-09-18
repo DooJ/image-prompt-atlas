@@ -540,6 +540,34 @@ Pencil_Shaving=연필 깎인 조각
   }
 
   /**
+   * 구조 편집기가 변수 표식을 사람이 읽기 쉬운 자리표시자로 보여줄 수 있도록
+   * 문자열 leaf와 변수 위치를 읽기 전용 정보로 제공한다.
+   */
+  function inspectTemplate(text) {
+    const compiled = compile(text);
+    const leaves = [];
+    const collect = (leaf, path) => {
+      const scanned = compiled.scans.get(path);
+      leaves.push({
+        path,
+        value: leaf,
+        tokens: scanned.tokens.map(token => ({
+          start: token.start,
+          end: token.end,
+          name: token.name,
+          label: labelFor(token.name),
+          defaultValue: token.defaultValue,
+          raw: leaf.slice(token.start, token.end)
+        }))
+      });
+      return leaf;
+    };
+    if (compiled.parsed) mapLeaves(compiled.parsed.value, collect);
+    else collect(compiled.source, '$');
+    return { kind: compiled.parsed ? 'json' : 'text', leaves, errors: [...compiled.errors] };
+  }
+
+  /**
    * 명시된 표식만 치환하고 문장의 순서·문장부호·일반 텍스트는 유지한다.
    * @param {object} values 이름별 입력. 없는 값은 첫 기본값을 쓰며, 빈 문자열은 빈칸으로 표시한다.
    * @param {object} options blank가 참이면 모든 명시 변수를 한국어 레이블의 빈칸으로 바꾼다.
@@ -584,5 +612,5 @@ Pencil_Shaving=연필 깎인 조각
     return { text: output, unresolved: [...unresolved], errors };
   }
 
-  return Object.freeze({ analyzeTemplate, renderTemplate });
+  return Object.freeze({ analyzeTemplate, inspectTemplate, renderTemplate });
 });

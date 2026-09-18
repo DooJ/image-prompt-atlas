@@ -6,11 +6,27 @@
 #prompt-atlas .atlas-input-note{margin:24px 0}
 #prompt-atlas .atlas-heading-row{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
 #prompt-atlas .atlas-heading-row h3{margin:0}
+#prompt-atlas .atlas-group-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:20px 0}
+#prompt-atlas .atlas-group-nav a{display:flex;align-items:center;gap:8px;padding:10px 12px;border:1px solid var(--border);color:var(--foreground);text-decoration:none;font-size:.92rem}
+#prompt-atlas .atlas-group-nav a:hover{border-color:var(--foreground)}
+#prompt-atlas .atlas-group-nav span,#prompt-atlas .atlas-step{display:inline-grid;place-items:center;width:24px;height:24px;border-radius:50%;background:var(--foreground);color:var(--background);font-size:.78rem;font-weight:700;flex:0 0 auto}
+#prompt-atlas .atlas-editor-group{margin:16px 0;padding:18px;border:1px solid var(--border);background:color-mix(in srgb,var(--background) 96%,var(--foreground))}
+#prompt-atlas .atlas-group-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:6px}
+#prompt-atlas .atlas-group-heading>div{display:flex;align-items:center;gap:10px}
+#prompt-atlas .atlas-group-heading h4{margin:0}
+#prompt-atlas .atlas-editor-group h5{margin:18px 0 0}
 #prompt-atlas .atlas-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:16px 0}
 #prompt-atlas .atlas-field{min-width:0}
 #prompt-atlas .atlas-field label{display:block}
-#prompt-atlas .atlas-field textarea{width:100%}
+#prompt-atlas .atlas-field input,#prompt-atlas .atlas-field textarea{width:100%}
 #prompt-atlas .atlas-variable-hint{display:block;margin-top:4px;overflow-wrap:anywhere}
+#prompt-atlas .atlas-segment-fields{display:grid;gap:12px;margin-top:14px}
+#prompt-atlas .atlas-segment{display:grid;grid-template-columns:minmax(150px,.34fr) minmax(0,1fr);gap:14px;align-items:start}
+#prompt-atlas .atlas-segment-meta label{display:block;margin:0}
+#prompt-atlas .atlas-segment-meta span{display:block;margin-top:5px}
+#prompt-atlas .atlas-segment textarea{width:100%;min-height:76px;line-height:1.55;resize:vertical}
+#prompt-atlas .atlas-segment[data-extra="true"]{padding-top:12px;border-top:1px dashed var(--border)}
+#prompt-atlas code{font-size:.88em}
 #prompt-atlas pre{white-space:pre-wrap;overflow-wrap:anywhere;max-width:100%;margin-top:12px}
 #prompt-atlas #atlas-template{width:100%;line-height:1.65}
 #prompt-atlas details{margin-top:20px}
@@ -28,4 +44,4 @@
 #prompt-atlas [hidden]{display:none!important}
 #prompt-atlas button:disabled{opacity:.5;cursor:not-allowed}
 #prompt-atlas select{max-width:100%}
-@media(max-width:600px){#prompt-atlas .atlas-controls,#prompt-atlas .atlas-fields,#prompt-atlas .atlas-images{grid-template-columns:minmax(0,1fr)}#prompt-atlas .atlas-heading-row{align-items:flex-start}#prompt-atlas .atlas-actions .btn{min-height:44px}}
+@media(max-width:700px){#prompt-atlas .atlas-controls,#prompt-atlas .atlas-fields,#prompt-atlas .atlas-images,#prompt-atlas .atlas-group-nav{grid-template-columns:minmax(0,1fr)}#prompt-atlas .atlas-segment{grid-template-columns:minmax(0,1fr);gap:7px}#prompt-atlas .atlas-heading-row{align-items:flex-start}#prompt-atlas .atlas-actions .btn{min-height:44px}}

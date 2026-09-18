@@ -8,6 +8,7 @@ const packed = zlib.gzipSync(JSON.stringify(catalog), { level: 9 }).toString('ba
 const page = read('src/head.html') + read('src/body.html') +
   '<style>\n' + read('src/atlas.css') + '\n</style>\n' +
   '<script>\n' + read('src/template-engine.js') + '\n</script>\n' +
+  '<script>\n' + read('src/prompt-structure.js') + '\n</script>\n' +
   '<script>\n' + read('src/app.js').replace('__ATLAS_PACKED_DATA__', packed) + '\n</script>\n</body></html>\n';
 if (process.argv.includes('--check')) {
   if (read('index.html') !== page) throw Error('index.html이 소스와 다릅니다. npm run build를 실행하세요.');

@@ -25,18 +25,46 @@
           <label class="form-label">편집 언어<select class="form-select" id="atlas-language"><option value="ko">한국어</option><option value="original">원문</option></select></label>
         </div>
         <p id="atlas-format-note" class="text-small text-muted"></p>
-        <section id="atlas-variable-section" hidden>
-          <h4>변경할 값</h4>
-          <p class="text-small">같은 이름의 변수는 연결된 모든 위치에 함께 반영됩니다. 빈 입력은 완성본을 복사하기 전에 채워 주세요.</p>
-          <div id="atlas-fields" class="atlas-fields"></div>
-          <button type="button" class="btn btn-ghost" id="atlas-clear-fields">변수 입력 비우기</button>
+        <nav class="atlas-group-nav" aria-label="프롬프트 편집 영역">
+          <a href="#atlas-content-group"><span>1</span>대상·문구</a>
+          <a href="#atlas-composition-group"><span>2</span>구성·장면</a>
+          <a href="#atlas-style-group"><span>3</span>스타일·화질</a>
+        </nav>
+        <section id="atlas-content-group" class="atlas-editor-group">
+          <div class="atlas-group-heading">
+            <div><span class="atlas-step">1</span><h4>대상·문구</h4></div>
+            <span id="atlas-content-count" class="viz-badge"></span>
+          </div>
+          <p class="text-small">브랜드, 제품, 인물, 제목처럼 이미지에서 바꿀 대상을 편집합니다. 연결 변수는 <code>{{브랜드명}}</code>처럼 본문 위치에도 표시됩니다.</p>
+          <section id="atlas-variable-section" hidden>
+            <h5>아규먼트</h5>
+            <div id="atlas-fields" class="atlas-fields atlas-argument-fields"></div>
+            <button type="button" class="btn btn-ghost" id="atlas-clear-fields">아규먼트 값 비우기</button>
+          </section>
+          <p id="atlas-no-variables" class="text-small text-muted">명시된 아규먼트는 없습니다. 아래 대상·문구 조건을 직접 편집할 수 있습니다.</p>
+          <div id="atlas-content-fields" class="atlas-segment-fields"></div>
         </section>
-        <p id="atlas-no-variables" class="text-small">별도 입력 변수가 없는 사례입니다. 아래 전체 프롬프트에서 대상·문구·스타일을 직접 수정하세요.</p>
+        <section id="atlas-composition-group" class="atlas-editor-group">
+          <div class="atlas-group-heading">
+            <div><span class="atlas-step">2</span><h4>구성·장면 설정</h4></div>
+            <span id="atlas-composition-count" class="viz-badge"></span>
+          </div>
+          <p class="text-small">배경, 요소의 개수와 위치, 레이아웃, 카메라와 화면비를 바꿉니다.</p>
+          <div id="atlas-composition-fields" class="atlas-segment-fields"></div>
+        </section>
+        <section id="atlas-style-group" class="atlas-editor-group">
+          <div class="atlas-group-heading">
+            <div><span class="atlas-step">3</span><h4>스타일·조명·화질</h4></div>
+            <span id="atlas-style-count" class="viz-badge"></span>
+          </div>
+          <p class="text-small">화풍, 재질, 색감, 조명, 렌더링 품질과 제외 조건을 바꿉니다.</p>
+          <div id="atlas-style-fields" class="atlas-segment-fields"></div>
+        </section>
         <details id="atlas-template-details">
-          <summary id="atlas-template-summary">전체 프롬프트 편집</summary>
+          <summary id="atlas-template-summary">고급 편집 · 전체 프롬프트</summary>
           <label for="atlas-template" class="form-label">프롬프트 본문</label>
           <textarea id="atlas-template" class="form-control" rows="15" spellcheck="false"></textarea>
-          <p class="text-small text-muted">변수 표기를 유지하면 입력칸과 계속 연결됩니다. 한국어와 원문은 각각 별도의 편집본으로 유지됩니다.</p>
+          <p class="text-small text-muted">위 세 영역은 원래 문장 순서대로 이 본문에 조합됩니다. 전체 구조를 직접 바꿀 때 사용하세요.</p>
         </details>
         <div class="atlas-actions viz-row"><button type="button" class="btn btn-ghost" id="atlas-reset">현재 편집 되돌리기</button></div>
         <div id="atlas-validation" class="atlas-validation" role="status" aria-live="polite"></div>
